@@ -165,128 +165,26 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
 #EXTINF:-1 tvg-id="MBN" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="Undefined",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 
-
 #EXTINF:-1 group-title="HANGUO",JTBC Golf&Sports
 http://www.hwado.net/webtv/catv/58.php
-
-#EXTINF:-1 tvg-id="RNA" tvg-logo="" group-title="Education",RNA
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="FISHING TV" tvg-logo="" group-title="Education",한국낚시방송
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_561.m3u8
 #EXTINF:-1 tvg-id="FTV" tvg-logo="" group-title="Education",FTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
 
+#EXTINF:-1 tvg-id="RNA" tvg-logo="" group-title="Education",RNA
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="HANGUO",AKC TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_563_FA7563F4.m3u8
-
-#EXTINF:-1 group-title="HANGUO",Baby First
-https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-
-
-#EXTINF:-1 group-title="HANGUO",WBC TV
-https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="MTN 머니투데이방송" tvg-logo="https://i.imgur.com/MS0lqoG.png" group-title="Undefined",MTN-W
+#EXTINF:-1 tvg-id="MTN 머니투데이방송" tvg-logo="https://i.imgur.com/MS0lqoG.png" group-title="Undefined",MTN 머니투데이방송
 https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 
+#EXTINF:-1 tvg-id="복지TV" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="Undefined",WBC복지TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
@@ -306,6 +204,10 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.
 #EXTINF:-1 tvg-id="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Undefined",NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AKC TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_563_FA7563F4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Baby First
+https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
 
 
 #EXTINF:-1 tvg-id="신세계쇼핑" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",신세계쇼핑 TV
@@ -356,93 +258,3 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SK stoa" tvg-logo="" group-title="Shop",SK stoa
 http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="HANGUO",SBS Plus
-http://www.hwado.net/webtv/catv/31.php
-#EXTINF:-1 group-title="HANGUO",SBS Plus
-http://mytv.dothome.co.kr/ch/catv/31.php
-#EXTINF:-1 group-title="HANGUO",SBS funE
-http://www.hwado.net/webtv/catv/32.php
-#EXTINF:-1 group-title="HANGUO",SBS M
-http://www.hwado.net/webtv/catv/33.php
-#EXTINF:-1 group-title="HANGUO",SBS Biz
-http://www.hwado.net/webtv/catv/34.php
-#EXTINF:-1 group-title="HANGUO",SBS Golf
-http://www.hwado.net/webtv/catv/36.php
-#EXTINF:-1 group-title="HANGUO",SBS Golf2
-http://www.hwado.net/webtv/catv/42_D1392F29.php
-#EXTINF:-1 group-title="HANGUO",The Kpop
-http://www.hwado.net/webtv/catv/37.php
-#EXTINF:-1 group-title="HANGUO",JTBC
-http://106.246.182.11:9981/stream/channelid/84
-#EXTINF:-1 group-title="HANGUO",JTBC 2
-http://106.246.182.11:9981/stream/channelid/20
-#EXTINF:-1 group-title="HANGUO",JTBC Golf
-http://www.hwado.net/webtv/catv/56.php
-#EXTINF:-1 group-title="HANGUO",Mnet
-https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
-#EXTINF:-1 group-title="HANGUO",TVN
-http://210.210.155.35/session/127fe5a6-0523-11ef-a4ee-9adabab70d70/dr9445/h/h20/02.m3u8
-#EXTINF:-1 group-title="HANGUO",TVN
-http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
-#EXTINF:-1 group-title="HANGUO",TVN
-http://210.210.155.35:80/dr9445/h/h20/02.m3u8
-#EXTINF:-1 group-title="HANGUO",TV Chosun2
-http://119.192.58.101:9981/stream/channelid/572768770?ticket=87B0F776BF3EFC02D10EA5F1D7688423E0A9AB1F&profile=pass
-#EXTINF:-1 group-title="HANGUO",TV Chosun2
-http://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
-#EXTINF:-1 group-title="HANGUO",TV Chosun2
-http://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HANGUO",TV Chosun2
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",TV Chosun2
-http://broadcast.tvchosun.com/onair/on2.cstv
-#EXTINF:-1 group-title="HANGUO",CHANNEL A+
-http://119.192.58.101:9981/stream/channelid/1249741512?ticket=5D3C829CF5E29840BED66E5981B6F2B66B5EBB82&profile=pass
-
-#EXTINF:-1 group-title="HANGUO",inet
-https://epg.pw/stream/80648d0bdb5700f114edde040658506d0cdb1fca7e9cb2cc60d00559605f6e42.m3u8
-#EXTINF:-1 group-title="HANGUO",inet
-http://221.167.205.241:9981/stream/channelid/34
-#EXTINF:-1 group-title="HANGUO",inet
-http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
