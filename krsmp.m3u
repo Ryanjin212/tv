@@ -1,0 +1,399 @@
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml.gz"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL http://www.uuneed.cn/smy/tv/raw/98388b8e4a820aa81708437888e37c480c34621b/1101.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="HANGUO",KBS1
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 group-title="HANGUO",KBS1
+http://mytv.dothome.co.kr/ch/public/12.php
+#EXTINF:-1 group-title="HANGUO",KBS1
+https://tv.iill.top/kbs/11&p=0
+#EXTINF:-1 group-title="HANGUO",KBS1
+http://mytv.dothome.co.kr/ch/public/11.php
+
+#EXTINF:-1 group-title="HANGUO",KBS2
+http://mytv.dothome.co.kr/ch/public/3.php
+
+
+
+#EXTINF:-1 group-title="HANGUO",KBS LIFE
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 group-title="HANGUO",KBS JOY
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 group-title="HANGUO",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="HANGUO",KBS KIDS
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 group-title="HANGUO",KBS DRAMA
+http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 group-title="HANGUO",KBS W
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="HANGUO",KBS W
+https://tv.iill.top/kbs/14&p=0
+#EXTINF:-1 group-title="HANGUO",KBS W
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="HANGUO",KBS W
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="HANGUO",KBS W
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="HANGUO",KBS W
+https://epg.pw/stream/a3f4c2da408267c1a8d4846a772edc50305e663df0ca7c21449edf82d1a100d4.m3u8
+#EXTINF:-1 group-title="HANGUO",KBS News D
+http://mytv.dothome.co.kr/ch/catv/1.php
+
+
+#EXTINF:-1 group-title="HANGUO",한국낚시방송
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_561.m3u8
+#EXTINF:-1 group-title="HANGUO",FTV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
+
+
+
+#EXTINF:-1 group-title="HANGUO",SBS
+http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HANGUO",SBS
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="HANGUO",SBS
+http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
+#EXTINF:-1 group-title="HANGUO",SBS
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="HANGUO",SBS News
+https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+
+
+#EXTINF:-1 group-title="HANGUO",RNA
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
+
+
+#EXTINF:-1 group-title="HANGUO",AKC TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_563_FA7563F4.m3u8
+
+
+#EXTINF:-1 group-title="HANGUO",Baby First
+https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
+
+
+#EXTINF:-1 group-title="HANGUO",Kpop
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="HANGUO",MBC
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w210713330.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC
+https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_w1740046871.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC
+https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="HANGUO",MBC Drama
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC every1
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC America
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
+
+#EXTINF:-1 group-title="HANGUO",JTBC Golf&Sports
+http://www.hwado.net/webtv/catv/58.php
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="HANGUO", 한국가요채널
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 group-title="HANGUO",국악방송国乐
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",K-Story
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_265_C8B3D838.m3u8
+#EXTINF:-1 group-title="HANGUO",New KMovie
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
+#EXTINF:-1 group-title="HANGUO",MBN
+http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1 group-title="HANGUO",YTN
+http://210.92.207.38:40001
+#EXTINF:-1 group-title="HANGUO",YTN
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
+
+#EXTINF:-1 group-title="HANGUO",TV Chosun
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="HANGUO",TV Chosun
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HANGUO",TV Chosun
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",TV Chosun
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="HANGUO",TV Chosun
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
+#EXTINF:-1 group-title="HANGUO",Channel A
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjM1MzQxOTh9.E19m4Ees16RXbEFaiUeYvjTrqjL4O3aECNZeJxP_hJk
+
+#EXTINF:-1 group-title="HANGUO",KoreaTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",KoreaTV
+https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w667562990.m3u8
+
+#EXTINF:-1 group-title="HANGUO",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HANGUO",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 group-title="HANGUO",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="HANGUO",KCTV
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+
+#EXTINF:-1 group-title="HANGUO",국방TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 group-title="HANGUO",국방TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="HANGUO",WBC TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",소상공인방송
+http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+
+#EXTINF:-1 group-title="HANGUO",JCN
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 group-title="HANGUO",JCN
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
+#EXTINF:-1 group-title="HANGUO",ABN HD
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 group-title="HANGUO",NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 group-title="HANGUO",National Assembly TV
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="HANGUO",Arirang
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="HANGUO",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXTINF:-1 group-title="HANGUO",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",Arirang
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 group-title="HANGUO",Arirang Radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",MTN-W
+https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
+
+#EXTINF:-1 group-title="HANGUO",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 group-title="HANGUO",NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 group-title="HANGUO",TV-WORK
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m301.m3u8
+
+#EXTINF:-1 group-title="HANGUO",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="HANGUO",EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w964466433.m3u8
+#EXTINF:-1 group-title="HANGUO",EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1022245387.m3u8
+#EXTINF:-1 group-title="HANGUO",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",EBS Plus 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="HANGUO",NS Home Shopping
+http://livestream.nsmall.com:1935/IPHONE/test.m3u8
+#EXTINF:-1 group-title="HANGUO",NS Shop Plus
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 group-title="HANGUO",Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",Home & Shopping
+http://gg.gg/Ha_Noi_IPTV_78-Home_and_Shopping_HD
+#EXTINF:-1 group-title="HANGUO",SK stoa
+http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
+#EXTINF:-1 group-title="HANGUO",Shinsegae TV Shopping
+http://gg.gg/Ha_Noi_IPTV_67-Shinsegae_Shopping_HD
+#EXTINF:-1 group-title="HANGUO",W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",W Shopping
+http://gg.gg/Ha_Noi_IPTV_75-W_Shopping_HD
+#EXTINF:-1 group-title="HANGUO",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",CJONSTYLE
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",CJONSTYLE
+https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",CJONSTYLE
+http://mytv.dothome.co.kr/ch/catv/91.php
+#EXTINF:-1 group-title="HANGUO",CJONSTYLE+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",CJONSTYLE+
+https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",Hyundai Home Shopping Plus
+http://gg.gg/Ha_Noi_IPTV_72-Hyundai_Mall_Plus_HD
+#EXTINF:-1 group-title="HANGUO",Hyundai Home Shopping Plus
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 group-title="HANGUO",Lotte OneTV
+http://gg.gg/Ha_Noi_IPTV_77-Lotte_One_TV_HD
+#EXTINF:-1 group-title="HANGUO",LOTTE MALL
+http://gg.gg/Ha_Noi_IPTV_76-Lotte_Mall_HD
+#EXTINF:-1 group-title="HANGUO",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 group-title="HANGUO",Gongyoung Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="HANGUO",SBS Plus
+http://www.hwado.net/webtv/catv/31.php
+#EXTINF:-1 group-title="HANGUO",SBS Plus
+http://mytv.dothome.co.kr/ch/catv/31.php
+#EXTINF:-1 group-title="HANGUO",SBS funE
+http://www.hwado.net/webtv/catv/32.php
+#EXTINF:-1 group-title="HANGUO",SBS M
+http://www.hwado.net/webtv/catv/33.php
+#EXTINF:-1 group-title="HANGUO",SBS Biz
+http://www.hwado.net/webtv/catv/34.php
+#EXTINF:-1 group-title="HANGUO",SBS Golf
+http://www.hwado.net/webtv/catv/36.php
+#EXTINF:-1 group-title="HANGUO",SBS Golf2
+http://www.hwado.net/webtv/catv/42_D1392F29.php
+#EXTINF:-1 group-title="HANGUO",The Kpop
+http://www.hwado.net/webtv/catv/37.php
+#EXTINF:-1 group-title="HANGUO",JTBC
+http://106.246.182.11:9981/stream/channelid/84
+#EXTINF:-1 group-title="HANGUO",JTBC 2
+http://106.246.182.11:9981/stream/channelid/20
+#EXTINF:-1 group-title="HANGUO",JTBC Golf
+http://www.hwado.net/webtv/catv/56.php
+#EXTINF:-1 group-title="HANGUO",Mnet
+https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
+#EXTINF:-1 group-title="HANGUO",TVN
+http://210.210.155.35/session/127fe5a6-0523-11ef-a4ee-9adabab70d70/dr9445/h/h20/02.m3u8
+#EXTINF:-1 group-title="HANGUO",TVN
+http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
+#EXTINF:-1 group-title="HANGUO",TVN
+http://210.210.155.35:80/dr9445/h/h20/02.m3u8
+#EXTINF:-1 group-title="HANGUO",TV Chosun2
+http://119.192.58.101:9981/stream/channelid/572768770?ticket=87B0F776BF3EFC02D10EA5F1D7688423E0A9AB1F&profile=pass
+#EXTINF:-1 group-title="HANGUO",TV Chosun2
+http://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
+#EXTINF:-1 group-title="HANGUO",TV Chosun2
+http://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HANGUO",TV Chosun2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 group-title="HANGUO",TV Chosun2
+http://broadcast.tvchosun.com/onair/on2.cstv
+#EXTINF:-1 group-title="HANGUO",CHANNEL A+
+http://119.192.58.101:9981/stream/channelid/1249741512?ticket=5D3C829CF5E29840BED66E5981B6F2B66B5EBB82&profile=pass
+
+#EXTINF:-1 group-title="HANGUO",inet
+https://epg.pw/stream/80648d0bdb5700f114edde040658506d0cdb1fca7e9cb2cc60d00559605f6e42.m3u8
+#EXTINF:-1 group-title="HANGUO",inet
+http://221.167.205.241:9981/stream/channelid/34
+#EXTINF:-1 group-title="HANGUO",inet
+http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
