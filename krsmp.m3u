@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml"
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" ,KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" ,KBS1
@@ -158,13 +154,13 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_265_C8B3D838.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",New KMovie
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
-#EXTINF:-1 tvg-id="MBN" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="Undefined",MBN
+#EXTINF:-1 tvg-id="MBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/MBN_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 
 #EXTINF:-1 group-title="HANGUO",JTBC Golf&Sports
 http://www.hwado.net/webtv/catv/58.php
 
-#EXTINF:-1 tvg-id="FISHING TV" tvg-logo="" group-title="Education",한국낚시방송
+#EXTINF:-1 tvg-id="FISHING TV" tvg-logo="https://i.namu.wiki/i/jujRKlFCPlwGoXblU0mZCs8kJvVvyNtUdvrMk15ho0KaShaZXqh6V88EtOz7NTQRxLZx2NvvdSLilnozNXfo0k3tVNLlqgV1ylYVZSgS7ftvavmZrBUrzHPqelnCP1B7UkMAfYVQP81jjTGJyIXHKw.svg" group-title="Education",한국낚시방송
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_561.m3u8
 #EXTINF:-1 tvg-id="FTV" tvg-logo="" group-title="Education",FTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
