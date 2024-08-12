@@ -274,20 +274,21 @@ http://hls.ye23.vip/hk/ytn.php
 
 #EXTINF:-1 group-title="HANGUO",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
-
-#EXTINF:-1 group-title="HANGUO",Yonhap News TV
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
 https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
-#EXTINF:-1 group-title="HANGUO",Yonhap News TV
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
 https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HANGUO",Yonhap News TV
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
 https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
-#EXTINF:-1 group-title="HANGUO",Yonhap News TV
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
 http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",Yonhap News TV
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
 http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",Yonhap News TV
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
 http://mytv.dothome.co.kr/ch/catv/216.php
-#EXTINF:-1 group-title="HANGUO",Yonhap News TV
+#EXTINF:-1 group-title="HANGUO",연합뉴스TV
 http://221.148.26.130:9981/stream/channelid/30
 #EXTINF:-1 group-title="HANGUO",TVN
 http://210.210.155.35/session/127fe5a6-0523-11ef-a4ee-9adabab70d70/dr9445/h/h20/02.m3u8
