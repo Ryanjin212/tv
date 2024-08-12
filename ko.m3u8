@@ -351,6 +351,8 @@ http://hls.ye23.vip/hk/Channel.php
 http://han.ddkdxmkj.com/api/han123.php?id=15
 #EXTINF:-1 group-title="HANGUO",Channel A
 http://han.ddkdxmkj.com/api/han123.php?id=19
+#EXTINF:-1 group-title="HANGUO",Channel A
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjM1MzQxOTh9.E19m4Ees16RXbEFaiUeYvjTrqjL4O3aECNZeJxP_hJk
 #EXTINF:-1 group-title="HANGUO",CHANNEL A+
 http://119.192.58.101:9981/stream/channelid/1249741512?ticket=5D3C829CF5E29840BED66E5981B6F2B66B5EBB82&profile=pass
 
