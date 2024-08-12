@@ -162,6 +162,8 @@ https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 #EXTINF:-1 group-title="HANGUO",SBS Plus
 
 http://www.hwado.net/webtv/catv/31.php
+#EXTINF:-1 group-title="HANGUO",SBS Plus
+http://mytv.dothome.co.kr/ch/catv/31.php
 
 #EXTINF:-1 group-title="HANGUO",SBS funE
 
