@@ -236,6 +236,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 #EXTINF:-1 group-title="HANGUO",MBC every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 
+#EXTINF:-1 group-title="HANGUO",MBC America
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
 #EXTINF:-1 group-title="HANGUO",JTBC
 
 http://106.246.182.11:9981/stream/channelid/84
