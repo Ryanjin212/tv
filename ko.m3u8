@@ -168,7 +168,8 @@ https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
 #EXTINF:-1 group-title="HANGUO",AKC TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_563_FA7563F4.m3u8
-
+#EXTINF:-1 group-title="HANGUO",Baby First
+https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
 #EXTINF:-1 group-title="HANGUO",SBS Plus
 
 http://www.hwado.net/webtv/catv/31.php
