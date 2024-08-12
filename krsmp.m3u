@@ -67,19 +67,15 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 http://mytv.dothome.co.kr/ch/catv/6.php
 #EXTINF:-1 tvg-id="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 group-title="HANGUO",KBS W
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Series",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="HANGUO",KBS W
-https://tv.iill.top/kbs/14&p=0
-#EXTINF:-1 group-title="HANGUO",KBS W
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Series",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1 group-title="HANGUO",KBS W
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Series",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="HANGUO",KBS W
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Series",KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="HANGUO",KBS W
-https://epg.pw/stream/a3f4c2da408267c1a8d4846a772edc50305e663df0ca7c21449edf82d1a100d4.m3u8
-#EXTINF:-1 group-title="HANGUO",KBS News D
+#EXTINF:-1 tvg-id="KBS News D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg" group-title="Series",KBS News D
 http://mytv.dothome.co.kr/ch/catv/1.php
 
 #EXTINF:-1 tvg-id="MBC Dramanet" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC Drama
