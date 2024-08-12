@@ -1,53 +1,72 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml.gz"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL http://www.uuneed.cn/smy/tv/raw/98388b8e4a820aa81708437888e37c480c34621b/1101.txt
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml"
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="HANGUO",KBS1
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" ,KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 group-title="HANGUO",KBS1
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" ,KBS1
 http://mytv.dothome.co.kr/ch/public/12.php
-#EXTINF:-1 group-title="HANGUO",KBS1
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" ,KBS1
 https://tv.iill.top/kbs/11&p=0
-#EXTINF:-1 group-title="HANGUO",KBS1
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" ,KBS1
 http://mytv.dothome.co.kr/ch/public/11.php
-
-#EXTINF:-1 group-title="HANGUO",KBS2
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" ,KBS2 
 http://mytv.dothome.co.kr/ch/public/3.php
 
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://en.wikipedia.org/wiki/SBS_TV#/media/File:Seoul_Broadcasting_System_logo.svg" group-title="Undefined",SBS
+http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://en.wikipedia.org/wiki/SBS_TV#/media/File:Seoul_Broadcasting_System_logo.svg" group-title="Undefined",SBS
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://en.wikipedia.org/wiki/SBS_TV#/media/File:Seoul_Broadcasting_System_logo.svg" group-title="Undefined",SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://en.wikipedia.org/wiki/SBS_TV#/media/File:Seoul_Broadcasting_System_logo.svg" group-title="Undefined",SBS
+http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://en.wikipedia.org/wiki/SBS_TV#/media/File:Seoul_Broadcasting_System_logo.svg" group-title="Undefined",SBS
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="HANGUO",KBS LIFE
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="Undefined",MBC
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w210713330.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="Undefined",MBC
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="Undefined",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="Undefined",MBC
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="Undefined",MBC
+https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_w1740046871.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="Undefined",MBC
+https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="Undefined",MBC
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="Undefined",MBC
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TV조선" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="TV조선" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="TV조선" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV조선" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
+#EXTINF:-1 tvg-id="TV조선" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
+
+#EXTINF:-1 tvg-id="KBS LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png",KBS LIFE
 http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 group-title="HANGUO",KBS JOY
+#EXTINF:-1 tvg-id="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy
 http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 group-title="HANGUO",KBS Story
+#EXTINF:-1 tvg-id="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png",KBS Story
 http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 group-title="HANGUO",KBS KIDS
+#EXTINF:-1 tvg-id="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",KBS Kids
 http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 group-title="HANGUO",KBS DRAMA
+#EXTINF:-1 tvg-id="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
-
 #EXTINF:-1 group-title="HANGUO",KBS W
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="HANGUO",KBS W
@@ -63,43 +82,125 @@ https://epg.pw/stream/a3f4c2da408267c1a8d4846a772edc50305e663df0ca7c21449edf82d1
 #EXTINF:-1 group-title="HANGUO",KBS News D
 http://mytv.dothome.co.kr/ch/catv/1.php
 
+#EXTINF:-1 tvg-id="MBC Dramanet" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC Drama
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+#EXTINF:-1 tvg-id="MBC Every1" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Undefined",MBC Every1
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 
-#EXTINF:-1 group-title="HANGUO",한국낚시방송
+#EXTINF:-1 tvg-id="SBSNews" tvg-logo="https://i.imgur.com/VY6uEE9.png" group-title="News",SBS News
+https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+
+#EXTINF:-1 tvg-id="YTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="General",YTN
+http://210.92.207.38:40001
+#EXTINF:-1 tvg-id="YTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="General",YTN
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+#EXTINF:-1 tvg-id="연합뉴스TV" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="General",연합뉴스TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
+
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="Undefined",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="Undefined",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="Undefined",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="Undefined",KCTV
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="Undefined",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+
+#EXTINF:-1 tvg-id="채널A" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="General",채널A
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjM1MzQxOTh9.E19m4Ees16RXbEFaiUeYvjTrqjL4O3aECNZeJxP_hJk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Kpop
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music", 한국가요채널
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="General",Arirang Radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Undefined",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Education",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Education",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w964466433.m3u8
+#EXTINF:-1 tvg-id="EBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Education",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Education",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1022245387.m3u8
+#EXTINF:-1 tvg-id="EBS English" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS KIDS" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS PLUS1" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",EBS+ 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS PLUS2" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="KTV" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w667562990.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN HD
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",K-Story
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_265_C8B3D838.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",New KMovie
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
+#EXTINF:-1 tvg-id="MBN" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="Undefined",MBN
+http://mytv.dothome.co.kr/ch/catv/54.php
+
+
+#EXTINF:-1 group-title="HANGUO",JTBC Golf&Sports
+http://www.hwado.net/webtv/catv/58.php
+
+#EXTINF:-1 tvg-id="RNA" tvg-logo="" group-title="Education",RNA
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="FISHING TV" tvg-logo="" group-title="Education",한국낚시방송
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_561.m3u8
-#EXTINF:-1 group-title="HANGUO",FTV
+#EXTINF:-1 tvg-id="FTV" tvg-logo="" group-title="Education",FTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
 
 
 
-#EXTINF:-1 group-title="HANGUO",SBS
-http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HANGUO",SBS
-http://1.245.74.5:1935/live/tv/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="HANGUO",SBS
-http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
-#EXTINF:-1 group-title="HANGUO",SBS
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="HANGUO",SBS News
-https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 
 
-#EXTINF:-1 group-title="HANGUO",RNA
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="HANGUO",AKC TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_563_FA7563F4.m3u8
 
-
 #EXTINF:-1 group-title="HANGUO",Baby First
 https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
 
 
-#EXTINF:-1 group-title="HANGUO",Kpop
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 
 
@@ -115,33 +216,6 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="HANGUO",MBC
-http://123.254.72.24:1935/tvlive/livestream2/chunklist_w210713330.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC
-http://123.254.72.24:1935/tvlive/livestream2/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC
-https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_w1740046871.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC
-https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC
-http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="HANGUO",MBC Drama
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC every1
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
-#EXTINF:-1 group-title="HANGUO",MBC America
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
-
-#EXTINF:-1 group-title="HANGUO",JTBC Golf&Sports
-http://www.hwado.net/webtv/catv/58.php
 
 
 
@@ -150,168 +224,150 @@ http://www.hwado.net/webtv/catv/58.php
 
 
 
-#EXTINF:-1 group-title="HANGUO", 한국가요채널
-http://live.kytv.co.kr:8080/hls/stream.m3u8
-#EXTINF:-1 group-title="HANGUO",국악방송国乐
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",K-Story
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_265_C8B3D838.m3u8
-#EXTINF:-1 group-title="HANGUO",New KMovie
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
-#EXTINF:-1 group-title="HANGUO",MBN
-http://mytv.dothome.co.kr/ch/catv/54.php
-#EXTINF:-1 group-title="HANGUO",YTN
-http://210.92.207.38:40001
-#EXTINF:-1 group-title="HANGUO",YTN
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
-#EXTINF:-1 group-title="HANGUO",연합뉴스TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 
-#EXTINF:-1 group-title="HANGUO",TV Chosun
-https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="HANGUO",TV Chosun
-https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HANGUO",TV Chosun
-https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",TV Chosun
-https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="HANGUO",TV Chosun
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
-#EXTINF:-1 group-title="HANGUO",Channel A
-https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjM1MzQxOTh9.E19m4Ees16RXbEFaiUeYvjTrqjL4O3aECNZeJxP_hJk
 
-#EXTINF:-1 group-title="HANGUO",KoreaTV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",KoreaTV
-https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w667562990.m3u8
 
-#EXTINF:-1 group-title="HANGUO",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HANGUO",KCTV
-http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="HANGUO",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="HANGUO",KCTV
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 
-#EXTINF:-1 group-title="HANGUO",국방TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="HANGUO",국방TV
+#EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 
 #EXTINF:-1 group-title="HANGUO",WBC TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",소상공인방송
-http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-
-#EXTINF:-1 group-title="HANGUO",JCN
-https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
-#EXTINF:-1 group-title="HANGUO",JCN
-https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
-#EXTINF:-1 group-title="HANGUO",ABN HD
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
-
-#EXTINF:-1 group-title="HANGUO",NHTV
-http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-
-#EXTINF:-1 group-title="HANGUO",National Assembly TV
-https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="HANGUO",Arirang
-http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="HANGUO",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
-#EXTINF:-1 group-title="HANGUO",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",Arirang
-http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="HANGUO",Arirang Radio
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",MTN-W
+
+
+
+
+
+#EXTINF:-1 tvg-id="MTN 머니투데이방송" tvg-logo="https://i.imgur.com/MS0lqoG.png" group-title="Undefined",MTN-W
 https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
 
-#EXTINF:-1 group-title="HANGUO",NBS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",JCN
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",JCN
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
+
+#EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="국회방송" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",국회방송
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="소상공인시장tv" tvg-logo="" group-title="Undefined",소상공인방송
+http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1 tvg-id="한국직업방송" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" group-title="Undefined",한국직업방송
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m301.m3u8
+#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="Undefined",NHTV농협방송
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-id="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Undefined",NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",NBS
+#EXTINF:-1 tvg-id="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Undefined",NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="HANGUO",NBS
+#EXTINF:-1 tvg-id="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Undefined",NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 group-title="HANGUO",TV-WORK
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m301.m3u8
-
-#EXTINF:-1 group-title="HANGUO",OUN
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="HANGUO",EBS1
-http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",EBS1
-http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w964466433.m3u8
-#EXTINF:-1 group-title="HANGUO",EBS2
-http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",EBS2
-http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1022245387.m3u8
-#EXTINF:-1 group-title="HANGUO",EBS English
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",EBS Plus 1
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",EBS Plus 2
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="HANGUO",NS Home Shopping
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NSHomeShopping.kr" tvg-logo="https://i.imgur.com/Q9xsDQo.png" group-title="Shop",NS Home Shopping
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
-#EXTINF:-1 group-title="HANGUO",NS Shop Plus
+#EXTINF:-1 tvg-id="NSShopPlus.kr" tvg-logo="https://i.imgur.com/7KmXNci.png" group-title="Shop",NS Shop Plus
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-#EXTINF:-1 group-title="HANGUO",Home & Shopping
+#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Shop",Home & Shopping
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 group-title="HANGUO",Home & Shopping
 http://gg.gg/Ha_Noi_IPTV_78-Home_and_Shopping_HD
 #EXTINF:-1 group-title="HANGUO",SK stoa
 http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",Shinsegae TV Shopping
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",Shinsegae Shopping TV
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",Shinsegae TV Shopping
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",Shinsegae Shopping TV
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
-#EXTINF:-1 group-title="HANGUO",Shinsegae TV Shopping
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",Shinsegae Shopping TV
 http://gg.gg/Ha_Noi_IPTV_67-Shinsegae_Shopping_HD
-#EXTINF:-1 group-title="HANGUO",W Shopping
+#EXTINF:-1 tvg-id="WShopping.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",W Shopping
+#EXTINF:-1 tvg-id="WShopping.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W Shopping
 http://gg.gg/Ha_Noi_IPTV_75-W_Shopping_HD
-#EXTINF:-1 group-title="HANGUO",GS My Shop
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="Shop",GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",GS Shop
+#EXTINF:-1 tvg-id="GSShop.kr" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Shop",GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",CJONSTYLE
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",CJONSTYLE
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",CJONSTYLE
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",CJ OnStyle
 http://mytv.dothome.co.kr/ch/catv/91.php
-#EXTINF:-1 group-title="HANGUO",CJONSTYLE+
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Shop",CJ OnStyle Plus
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",CJONSTYLE+
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Shop",CJ OnStyle Plus
 https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",Hyundai Home Shopping Plus
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",Hyundai Home Shopping Plus
 http://gg.gg/Ha_Noi_IPTV_72-Hyundai_Mall_Plus_HD
-#EXTINF:-1 group-title="HANGUO",Hyundai Home Shopping Plus
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",Hyundai Home Shopping Plus
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 group-title="HANGUO",Lotte Home Shopping
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Lotte Home Shopping
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-#EXTINF:-1 group-title="HANGUO",Lotte OneTV
-http://gg.gg/Ha_Noi_IPTV_77-Lotte_One_TV_HD
-#EXTINF:-1 group-title="HANGUO",LOTTE MALL
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Lotte Home Shopping
 http://gg.gg/Ha_Noi_IPTV_76-Lotte_Mall_HD
-#EXTINF:-1 group-title="HANGUO",Shopping NT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shop",Lotte OneTV
+http://gg.gg/Ha_Noi_IPTV_77-Lotte_One_TV_HD
+#EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",Shopping NT
 https://live.shoppingntmall.com/live/10011.m3u8
-#EXTINF:-1 group-title="HANGUO",Gongyoung Shopping
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Shop",Gongyoung Shopping
 https://etv.publichs.com/live5.stream/playlist.m3u8
 
 
