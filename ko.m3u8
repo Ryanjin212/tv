@@ -194,6 +194,9 @@ http://www.hwado.net/webtv/catv/42_D1392F29.php
 #EXTINF:-1 group-title="HANGUO",The Kpop
 
 http://www.hwado.net/webtv/catv/37.php
+#EXTINF:-1 group-title="HANGUO",Kpop
+
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-1 group-title="HANGUO", 런닝맨 TV
 
@@ -225,6 +228,8 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="HANGUO",MBC Drama
 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+#EXTINF:-1 group-title="HANGUO",MBC every1
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 
 #EXTINF:-1 group-title="HANGUO",JTBC
 
