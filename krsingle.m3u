@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png"  group-title="General",KBS1
-http://mytv.dothome.co.kr/ch/public/1.php
+http://mytv.dothome.co.kr/ch/public/12.php
 
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png"  group-title="General",KBS2 
 http://mytv.dothome.co.kr/ch/public/3.php
