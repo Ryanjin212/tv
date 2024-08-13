@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml.gz"
 
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png"  group-title="General",KBS1
