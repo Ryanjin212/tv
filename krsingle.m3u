@@ -9,10 +9,9 @@ http://mytv.dothome.co.kr/ch/public/3.php
 
 
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://en.wikipedia.org/wiki/SBS_TV#/media/File:Seoul_Broadcasting_System_logo.svg" group-title="General",SBS
-http://61.82.49.4:1935/live/_definst_/tv.stream/
+http://1.245.74.5:1935/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://drama.fandom.com/wiki/Munhwa_Broadcasting_Corporation?file=MBC_Logo_7.png" group-title="General",MBC
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-
 
 
 
