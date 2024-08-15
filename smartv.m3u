@@ -535,3 +535,7 @@ http://23.26.147.19:1258/proxy/Smartv.php?id=TV8
 http://23.26.147.19:1258/proxy/Smartv.php?id=jade_twn
 #EXTINF:-1 group-title="Smartv",翡翠
 http://23.26.147.19:1258/proxy/Smartv.php?id=Wlt
+#EXTINF:-1 group-title="Smartv",J the Kpop
+http://23.26.147.19:1258/proxy/Smartv.php?id=jthekpop_korea
+#EXTINF:-1 group-title="Smartv",SBS Plus
+http://23.26.147.19:1258/proxy/Smartv.php?id=sbsplus_korea
