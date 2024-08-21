@@ -95,6 +95,28 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="KBS News D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg" group-title="News",KBS News D
 http://mytv.dothome.co.kr/ch/catv/1.php
 
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png"  group-title="General",KBS1
+http://23.26.239.95:3599/xsj.php?id=kbs-1
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png"  group-title="General",KBS2 
+http://23.26.239.95:3599/xsj.php?id=kbs-2
+#EXTINF:-1 tvg-id="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Series",KBS Drama
+http://23.26.239.95:3599/xsj.php?id=kbs-drama
+#EXTINF:-1 tvg-id="KBS LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="",KBS LIFE
+http://23.26.239.95:3599/xsj.php?id=kbs-life
+#EXTINF:-1 tvg-id="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="",KBS Joy
+http://23.26.239.95:3599/xsj.php?id=kbs-joy
+#EXTINF:-1 tvg-id="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="",KBS Story
+http://23.26.239.95:3599/xsj.php?id=kbs-story
+#EXTINF:-1 tvg-id="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",KBS Kids
+http://23.26.239.95:3599/xsj.php?id=kbs-kids
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Series" group-title="",KBS World
+http://23.26.239.95:3599/xsj.php?id=kbsworld
+#EXTINF:-1 tvg-id="KBS News D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg" group-title="News",KBS News D
+http://23.26.239.95:3599/xsj.php?id=kbs-news
+
+
+
+
 #EXTINF:-1 tvg-id="MBC Dramanet" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC Drama
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 #EXTINF:-1 tvg-id="MBC Every1" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Entertainment",MBC Every1
@@ -102,6 +124,24 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 
 #EXTINF:-1 tvg-id="SBSNews" tvg-logo="https://i.imgur.com/VY6uEE9.png" group-title="News",SBS News
 https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://en.wikipedia.org/wiki/SBS_TV#/media/File:Seoul_Broadcasting_System_logo.svg" group-title="General",SBS
+http://23.26.239.95:3599/xsj.php?id=sbs
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/SBS_Plus_logo_2018.svg" group-title="General",SBS Plus
+http://23.26.239.95:3599/xsj.php?id=sbs-plus
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://commons.wikimedia.org/wiki/File:SBS_FunE_logo_2022.svg" group-title="General",SBS funE
+http://23.26.239.95:3599/xsj.php?id=sbs-fune
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://www.wikidata.org/wiki/Q625776#/media/File:SBS_M_2022_logo.svg" group-title="General",SBS M
+http://23.26.239.95:3599/xsj.php?id=sbs-m
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="News",YTN
 http://210.92.207.38:40001
@@ -277,35 +317,6 @@ http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png"  group-title="General",KBS1
-http://23.26.239.95:3599/xsj.php?id=kbs-1
-#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png"  group-title="General",KBS2 
-http://23.26.239.95:3599/xsj.php?id=kbs-2
-#EXTINF:-1 tvg-id="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Series",KBS Drama
-http://23.26.239.95:3599/xsj.php?id=kbs-drama
-#EXTINF:-1 tvg-id="KBS LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="",KBS LIFE
-http://23.26.239.95:3599/xsj.php?id=kbs-life
-#EXTINF:-1 tvg-id="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="",KBS Joy
-http://23.26.239.95:3599/xsj.php?id=kbs-joy
-#EXTINF:-1 tvg-id="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="",KBS Story
-http://23.26.239.95:3599/xsj.php?id=kbs-story
-#EXTINF:-1 tvg-id="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",KBS Kids
-http://23.26.239.95:3599/xsj.php?id=kbs-kids
-#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Series" group-title="",KBS World
-http://23.26.239.95:3599/xsj.php?id=kbsworld
-#EXTINF:-1 tvg-id="KBS News D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg" group-title="News",KBS News D
-http://23.26.239.95:3599/xsj.php?id=kbs-news
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://en.wikipedia.org/wiki/SBS_TV#/media/File:Seoul_Broadcasting_System_logo.svg" group-title="General",SBS
-http://23.26.239.95:3599/xsj.php?id=sbs
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/SBS_Plus_logo_2018.svg" group-title="General",SBS Plus
-http://23.26.239.95:3599/xsj.php?id=sbs-plus
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://commons.wikimedia.org/wiki/File:SBS_FunE_logo_2022.svg" group-title="General",SBS funE
-http://23.26.239.95:3599/xsj.php?id=sbs-fune
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://www.wikidata.org/wiki/Q625776#/media/File:SBS_M_2022_logo.svg" group-title="General",SBS M
-http://23.26.239.95:3599/xsj.php?id=sbs-m
 
 
 
