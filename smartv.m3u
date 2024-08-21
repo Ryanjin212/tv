@@ -3,539 +3,737 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/tv/main/Smartv.txt
 
-#EXTINF:-1 group-title="Smartv",RTHK32
-http://23.26.147.19:1258/proxy/Smartv.php?id=rhk32_twn
-#EXTINF:-1 group-title="Smartv",RTHK31
-http://23.26.147.19:1258/proxy/Smartv.php?id=rhk31_twn
-#EXTINF:-1 group-title="Smartv",凤凰卫视
-http://23.26.147.19:1258/proxy/Smartv.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="Smartv",无线财经资讯
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbcaijing_twn
-#EXTINF:-1 group-title="Smartv",VIUTV1
-http://23.26.147.19:1258/proxy/Smartv.php?id=viu1_twn
-#EXTINF:-1 group-title="Smartv",无线新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=inews_twn
-#EXTINF:-1 group-title="Smartv",龙华戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=lunghuaxiju_twn
-#EXTINF:-1 group-title="Smartv",龙华偶像
-http://23.26.147.19:1258/proxy/Smartv.php?id=lunghuaidol_twn
-#EXTINF:-1 group-title="Smartv",龙华卡通
-http://23.26.147.19:1258/proxy/Smartv.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="Smartv",非凡新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=feifannews_twn
-#EXTINF:-1 group-title="Smartv",美亚电影
-http://23.26.147.19:1258/proxy/Smartv.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="Smartv",Arirang
-http://23.26.147.19:1258/proxy/Smartv.php?id=arirang_twn
-#EXTINF:-1 group-title="Smartv",好莱坞电影
-http://23.26.147.19:1258/proxy/Smartv.php?id=hollywoodmovies_twn
-#EXTINF:-1 group-title="Smartv",爱尔达体育2
-http://23.26.147.19:1258/proxy/Smartv.php?id=eltasport2_twn
-#EXTINF:-1 group-title="Smartv",爱尔达体育1
-http://23.26.147.19:1258/proxy/Smartv.php?id=eltasport_twn
-#EXTINF:-1 group-title="Smartv",民视新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="Smartv",民视台湾
-http://23.26.147.19:1258/proxy/Smartv.php?id=ftvtaiwan_twn
-#EXTINF:-1 group-title="Smartv",民视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ftvhd_taiwan
-#EXTINF:-1 group-title="Smartv",年代新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=niandainews_twn
-#EXTINF:-1 group-title="Smartv",大爱1
-http://23.26.147.19:1258/proxy/Smartv.php?id=daai_twn
-#EXTINF:-1 group-title="Smartv",博斯高球2
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosigolf2_twn
-#EXTINF:-1 group-title="Smartv",博斯运动2
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosisport2_twn
-#EXTINF:-1 group-title="Smartv",博斯运动1
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosisport1_twn
-#EXTINF:-1 group-title="Smartv",博斯网球
-http://23.26.147.19:1258/proxy/Smartv.php?id=bositennis_twn
-#EXTINF:-1 group-title="Smartv",华视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctshd_twn
-#EXTINF:-1 group-title="Smartv",公视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctv_taiwan
-#EXTINF:-1 group-title="Smartv",八大综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=badazhonghe
-#EXTINF:-1 group-title="Smartv",中视新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="Smartv",中视
-http://23.26.147.19:1258/proxy/Smartv.php?id=zhongshihd_twn
-#EXTINF:-1 group-title="Smartv",中天娱乐
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctient
-#EXTINF:-1 group-title="Smartv",中天亚洲
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctiasia_twn
-#EXTINF:-1 group-title="Smartv",东森超视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvsuper
-#EXTINF:-1 group-title="Smartv",东森戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvdrama
-#EXTINF:-1 group-title="Smartv",三立综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=sanlizhonghe
-#EXTINF:-1 group-title="Smartv",三立戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="Smartv",东森电影
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvmovie
-#EXTINF:-1 group-title="Smartv",东森综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvzhonghe
-#EXTINF:-1 group-title="Smartv",中天综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctizhonghe
-#EXTINF:-1 group-title="Smartv",八大综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=badazhonghe
-#EXTINF:-1 group-title="Smartv",八大戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=badadrama
-#EXTINF:-1 group-title="Smartv",八大第一
-http://23.26.147.19:1258/proxy/Smartv.php?id=badafirst
-#EXTINF:-1 group-title="Smartv",小太阳
-http://23.26.147.19:1258/proxy/Smartv.php?id=Xiaotaiyang
-#EXTINF:-1 group-title="Smartv",靖天卡通
-http://23.26.147.19:1258/proxy/Smartv.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="Smartv",靖天国际
-http://23.26.147.19:1258/proxy/Smartv.php?id=jingtianintl_twn
-#EXTINF:-1 group-title="Smartv",TVBS News
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbs_n
-#EXTINF:-1 group-title="Smartv",TVBS
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbs
-#EXTINF:-1 group-title="Smartv",EYETV戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvxiju_twn
-#EXTINF:-1 group-title="Smartv",EYETV旅游
-http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvtravel_twn
-#EXTINF:-1 group-title="Smartv",TVBS欢乐
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbshuanle_twn
-#EXTINF:-1 group-title="Smartv",Zee TV HD
-http://23.26.147.19:1258/proxy/Smartv.php?id=Zeetvhd
-#EXTINF:-1 group-title="Smartv",Warner TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=WarnerTV
-#EXTINF:-1 group-title="Smartv",Viu6
-http://23.26.147.19:1258/proxy/Smartv.php?id=viusix_twn
-#EXTINF:-1 group-title="Smartv",Vasantham
-http://23.26.147.19:1258/proxy/Smartv.php?id=Vasantham
-#EXTINF:-1 group-title="Smartv",TvN
-http://23.26.147.19:1258/proxy/Smartv.php?id=TVN
-#EXTINF:-1 group-title="Smartv",True Premium 2 HD
-http://23.26.147.19:1258/proxy/Smartv.php?id=truepre2_pat
-#EXTINF:-1 group-title="Smartv",True Premium 1 HD
-http://23.26.147.19:1258/proxy/Smartv.php?id=truepre1_pat
-#EXTINF:-1 group-title="Smartv",Transtv
-http://23.26.147.19:1258/proxy/Smartv.php?id=Transtv
-#EXTINF:-1 group-title="Smartv",Trans 7
-http://23.26.147.19:1258/proxy/Smartv.php?id=Trans7_eko
-#EXTINF:-1 group-title="Smartv",Tnn24
-http://23.26.147.19:1258/proxy/Smartv.php?id=tnn24_pat
-#EXTINF:-1 group-title="Smartv",Thrill
-http://23.26.147.19:1258/proxy/Smartv.php?id=Thrill
-#EXTINF:-1 group-title="Smartv",Tawaf TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=TawafTV
-#EXTINF:-1 group-title="Smartv",TVRI National
-http://23.26.147.19:1258/proxy/Smartv.php?id=TVRI
-#EXTINF:-1 group-title="Smartv",TVMU
-http://23.26.147.19:1258/proxy/Smartv.php?id=TVMU_eko
-#EXTINF:-1 group-title="Smartv",TV9
-http://23.26.147.19:1258/proxy/Smartv.php?id=TV9
-#EXTINF:-1 group-title="Smartv",TV9 Indonesia
-http://23.26.147.19:1258/proxy/Smartv.php?id=TV9_eko
-#EXTINF:-1 group-title="Smartv",TV8
-http://23.26.147.19:1258/proxy/Smartv.php?id=TV8
-#EXTINF:-1 group-title="Smartv",TV3
-http://23.26.147.19:1258/proxy/Smartv.php?id=TV3
-#EXTINF:-1 group-title="Smartv",TV3 backup
-http://23.26.147.19:1258/proxy/Smartv.php?id=TV3_backup
-#EXTINF:-1 group-title="Smartv",TV2
-http://23.26.147.19:1258/proxy/Smartv.php?id=TV2
-#EXTINF:-1 group-title="Smartv",TV1
-http://23.26.147.19:1258/proxy/Smartv.php?id=TV1
-#EXTINF:-1 group-title="Smartv",TPTV
-http://23.26.147.19:1258/proxy/Smartv.php?id=tptv_pat
-#EXTINF:-1 group-title="Smartv",TLC
-http://23.26.147.19:1258/proxy/Smartv.php?id=Tlc
-#EXTINF:-1 group-title="Smartv",Suria
-http://23.26.147.19:1258/proxy/Smartv.php?id=Suria
-#EXTINF:-1 group-title="Smartv",体育3
-http://23.26.147.19:1258/proxy/Smartv.php?id=Assp3
-#EXTINF:-1 group-title="Smartv",体育2
-http://23.26.147.19:1258/proxy/Smartv.php?id=Assp2
-#EXTINF:-1 group-title="Smartv",Sunnah HD
-http://23.26.147.19:1258/proxy/Smartv.php?id=sunnah_mido
-#EXTINF:-1 group-title="Smartv",Sun Music
-http://23.26.147.19:1258/proxy/Smartv.php?id=sunmusic_raj
-#EXTINF:-1 group-title="Smartv",Star Vijay
-http://23.26.147.19:1258/proxy/Smartv.php?id=Starvijay
-#EXTINF:-1 group-title="Smartv",Star Vijay India
-http://23.26.147.19:1258/proxy/Smartv.php?id=starvijay_raj
-#EXTINF:-1 group-title="Smartv",Sony Six HD
-http://23.26.147.19:1258/proxy/Smartv.php?id=sonysix_raj
-#EXTINF:-1 group-title="Smartv",Sony HD
-http://23.26.147.19:1258/proxy/Smartv.php?id=SetOne
-#EXTINF:-1 group-title="Smartv",Skynews
-http://23.26.147.19:1258/proxy/Smartv.php?id=skynews_antik
-#EXTINF:-1 group-title="Smartv",SCTV
-http://23.26.147.19:1258/proxy/Smartv.php?id=Sctv
-#EXTINF:-1 group-title="Smartv",SCM
-http://23.26.147.19:1258/proxy/Smartv.php?id=Weishimovie
-#EXTINF:-1 group-title="Smartv",RTM Sports HD
-http://23.26.147.19:1258/proxy/Smartv.php?id=Rtmsport
-#EXTINF:-1 group-title="Smartv",RCTI
-http://23.26.147.19:1258/proxy/Smartv.php?id=Rcti
-#EXTINF:-1 group-title="Smartv",Quran HD
-http://23.26.147.19:1258/proxy/Smartv.php?id=quran_mido
-#EXTINF:-1 group-title="Smartv",Prima
-http://23.26.147.19:1258/proxy/Smartv.php?id=Prima
-#EXTINF:-1 group-title="Smartv",Pick TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=picktv_antik
-#EXTINF:-1 group-title="Smartv",PPTV Thailand1
-http://23.26.147.19:1258/proxy/Smartv.php?id=pptv_pat
-#EXTINF:-1 group-title="Smartv",One
-http://23.26.147.19:1258/proxy/Smartv.php?id=One
-#EXTINF:-1 group-title="Smartv",Oasis
-http://23.26.147.19:1258/proxy/Smartv.php?id=Oasis
-#EXTINF:-1 group-title="Smartv",Nickelodeon
-http://23.26.147.19:1258/proxy/Smartv.php?id=Nickelodeon
-#EXTINF:-1 group-title="Smartv",Nick Jr
-http://23.26.147.19:1258/proxy/Smartv.php?id=Nickjr
-#EXTINF:-1 group-title="Smartv",News 18 Tamil
-http://23.26.147.19:1258/proxy/Smartv.php?id=news18tamil_raj
-#EXTINF:-1 group-title="Smartv",New
-http://23.26.147.19:1258/proxy/Smartv.php?id=new_pat
-#EXTINF:-1 group-title="Smartv",Net TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=NetTV
-#EXTINF:-1 group-title="Smartv",Nation
-http://23.26.147.19:1258/proxy/Smartv.php?id=nation_pat
-#EXTINF:-1 group-title="Smartv",国家地理
-http://23.26.147.19:1258/proxy/Smartv.php?id=natgeohd_twn
-#EXTINF:-1 group-title="Smartv",地理野生动物
-http://23.26.147.19:1258/proxy/Smartv.php?id=natgeowildtamil_raj
-#EXTINF:-1 group-title="Smartv",野生动物
-http://23.26.147.19:1258/proxy/Smartv.php?id=natgeowild_twn
-#EXTINF:-1 group-title="Smartv",地理野生动物
-http://23.26.147.19:1258/proxy/Smartv.php?id=Natgeowild
-#EXTINF:-1 group-title="Smartv",NatGeo Tamil
-http://23.26.147.19:1258/proxy/Smartv.php?id=natgeotamil_raj
-#EXTINF:-1 group-title="Smartv",国家地理
-http://23.26.147.19:1258/proxy/Smartv.php?id=Natgeo
-#EXTINF:-1 group-title="Smartv",More4
-http://23.26.147.19:1258/proxy/Smartv.php?id=more4_antik
-#EXTINF:-1 group-title="Smartv",Momo TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=momo1_twn
-#EXTINF:-1 group-title="Smartv",MiaoMi
-http://23.26.147.19:1258/proxy/Smartv.php?id=MiaoMi
-#EXTINF:-1 group-title="Smartv",Metro TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=metrotv_eko
-#EXTINF:-1 group-title="Smartv",Makkal TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=Makkaltv
-#EXTINF:-1 group-title="Smartv",AXNTaiwan
-http://23.26.147.19:1258/proxy/Smartv.php?id=axn_twn
-#EXTINF:-1 group-title="Smartv",动物星球
-http://23.26.147.19:1258/proxy/Smartv.php?id=AnimalPlanet
-#EXTINF:-1 group-title="Smartv",动物星球1
-http://23.26.147.19:1258/proxy/Smartv.php?id=animalplanet_twn
-#EXTINF:-1 group-title="Smartv",Asianet
-http://23.26.147.19:1258/proxy/Smartv.php?id=asianet_raj
-#EXTINF:-1 group-title="Smartv",Awani
-http://23.26.147.19:1258/proxy/Smartv.php?id=Awani
-#EXTINF:-1 group-title="Smartv",AxnHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=Axn
-#EXTINF:-1 group-title="Smartv",Cinemax
-http://23.26.147.19:1258/proxy/Smartv.php?id=cinemax_twn
-#EXTINF:-1 group-title="Smartv",CNBC
-http://23.26.147.19:1258/proxy/Smartv.php?id=cnbc_twn
-#EXTINF:-1 group-title="Smartv",CelestialMoviesHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=Celestialindo
-#EXTINF:-1 group-title="Smartv",Channel3Thailand
-http://23.26.147.19:1258/proxy/Smartv.php?id=ch3_pat
-#EXTINF:-1 group-title="Smartv",DiscoveryAsia
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="Smartv",DiscoveryHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoveryhd_twn
-#EXTINF:-1 group-title="Smartv",DiscoveryKidsTamil
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoverykidtamil_raj
-#EXTINF:-1 group-title="Smartv",DiscoveryTurbo
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoveryturbo_twn
-#EXTINF:-1 group-title="Smartv",DiscoveryWorldTamil
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoveryworldtam_raj
-#EXTINF:-1 group-title="Smartv",BBC1
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbc1_antik
-#EXTINF:-1 group-title="Smartv",BBC2
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbc2_antik
-#EXTINF:-1 group-title="Smartv",BBCEarthHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbcearth_twn
-#EXTINF:-1 group-title="Smartv",BBCEarthTamil
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbcearthtam_raj
-#EXTINF:-1 group-title="Smartv",BBCWorldNews
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbcnews_twn
-#EXTINF:-1 group-title="Smartv",BTESPN
-http://23.26.147.19:1258/proxy/Smartv.php?id=btespn
-#EXTINF:-1 group-title="Smartv",BTSports1
-http://23.26.147.19:1258/proxy/Smartv.php?id=beeone
-#EXTINF:-1 group-title="Smartv",BTSports3
-http://23.26.147.19:1258/proxy/Smartv.php?id=beethree
-#EXTINF:-1 group-title="Smartv",BloombergNews
-http://23.26.147.19:1258/proxy/Smartv.php?id=bloomberg_twn
-#EXTINF:-1 group-title="Smartv",Boomerang
-http://23.26.147.19:1258/proxy/Smartv.php?id=Boomerang
-#EXTINF:-1 group-title="Smartv",CBBC
-http://23.26.147.19:1258/proxy/Smartv.php?id=cbbc_antik
-#EXTINF:-1 group-title="Smartv",CBSHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=cbshd_glo
-#EXTINF:-1 group-title="Smartv",CBSNHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=cbsn_glo
-#EXTINF:-1 group-title="Smartv",Muslim TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=MuslimTV
-#EXTINF:-1 group-title="Smartv",itv1
-http://23.26.147.19:1258/proxy/Smartv.php?id=itv1_antik
-#EXTINF:-1 group-title="Smartv",tvNMovie
-http://23.26.147.19:1258/proxy/Smartv.php?id=Tvnmovie
-#EXTINF:-1 group-title="Smartv",TVN
-http://23.26.147.19:1258/proxy/Smartv.php?id=TVN
-#EXTINF:-1 group-title="Smartv",RTHK32
-http://23.26.147.19:1258/proxy/Smartv.php?id=rhk32_twn
-#EXTINF:-1 group-title="Smartv",RTHK31
-http://23.26.147.19:1258/proxy/Smartv.php?id=rhk31_twn
-#EXTINF:-1 group-title="Smartv",J2
-http://23.26.147.19:1258/proxy/Smartv.php?id=j2_twn
-#EXTINF:-1 group-title="Smartv",无线财经资讯
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbcaijing_twn
-#EXTINF:-1 group-title="Smartv",民视第一
-http://23.26.147.19:1258/proxy/Smartv.php?id=lunghuajingdian_twn
-#EXTINF:-1 group-title="Smartv",龙华偶像
-http://23.26.147.19:1258/proxy/Smartv.php?id=lunghuaidol_twn
-#EXTINF:-1 group-title="Smartv",龙华卡通
-http://23.26.147.19:1258/proxy/Smartv.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="Smartv",非凡新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=feifannews_twn
-#EXTINF:-1 group-title="Smartv",美食星球
-http://23.26.147.19:1258/proxy/Smartv.php?id=foodplanet_twn
-#EXTINF:-1 group-title="Smartv",Arirang
-http://23.26.147.19:1258/proxy/Smartv.php?id=arirang_twn
-#EXTINF:-1 group-title="Smartv",爱尔达体育2
-http://23.26.147.19:1258/proxy/Smartv.php?id=eltasport2_twn
-#EXTINF:-1 group-title="Smartv",爱尔达体育1
-http://23.26.147.19:1258/proxy/Smartv.php?id=eltasport_twn
-#EXTINF:-1 group-title="Smartv",民视新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="Smartv",民视台湾
-http://23.26.147.19:1258/proxy/Smartv.php?id=ftvtaiwan_twn
-#EXTINF:-1 group-title="Smartv",民视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ftvhd_taiwan
-#EXTINF:-1 group-title="Smartv",年代新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=niandainews_twn
-#EXTINF:-1 group-title="Smartv",好消息 2
-http://23.26.147.19:1258/proxy/Smartv.php?id=good2_twn
-#EXTINF:-1 group-title="Smartv",大爱1台
-http://23.26.147.19:1258/proxy/Smartv.php?id=daai_twn
-#EXTINF:-1 group-title="Smartv",博斯高球2
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosigolf2_twn
-#EXTINF:-1 group-title="Smartv",博斯运动 2
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosisport2_twn
-#EXTINF:-1 group-title="Smartv",博斯运动 1
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosisport1_twn
-#EXTINF:-1 group-title="Smartv",博斯网球
-http://23.26.147.19:1258/proxy/Smartv.php?id=bositennis_twn
-#EXTINF:-1 group-title="Smartv",华视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctshd_twn
-#EXTINF:-1 group-title="Smartv",公视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctv_taiwan
-#EXTINF:-1 group-title="Smartv",八大综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=badazhonghe
-#EXTINF:-1 group-title="Smartv",中视新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="Smartv",中视
-http://23.26.147.19:1258/proxy/Smartv.php?id=zhongshihd_twn
-#EXTINF:-1 group-title="Smartv",中天新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctinews
-#EXTINF:-1 group-title="Smartv",中天娱乐
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctient
-#EXTINF:-1 group-title="Smartv",中天亚洲
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctiasia_twn
-#EXTINF:-1 group-title="Smartv",东森超视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvsuper
-#EXTINF:-1 group-title="Smartv",东森财经新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvcaijing_twn
-#EXTINF:-1 group-title="Smartv",东森戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvdrama
-#EXTINF:-1 group-title="Smartv",三立综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=sanlizhonghe
-#EXTINF:-1 group-title="Smartv",三立戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="Smartv",东森电影
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvmovie
-#EXTINF:-1 group-title="Smartv",东森综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvzhonghe
-#EXTINF:-1 group-title="Smartv",中天综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctizhonghe
-#EXTINF:-1 group-title="Smartv",八大综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=badazhonghe
-#EXTINF:-1 group-title="Smartv",八大戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=badadrama
-#EXTINF:-1 group-title="Smartv",八大第一
-http://23.26.147.19:1258/proxy/Smartv.php?id=badafirst
-#EXTINF:-1 group-title="Smartv",八大第一
-http://23.26.147.19:1258/proxy/Smartv.php?id=badafirst
-#EXTINF:-1 group-title="Smartv",小太阳
-http://23.26.147.19:1258/proxy/Smartv.php?id=Xiaotaiyang
-#EXTINF:-1 group-title="Smartv",靖天卡通
-http://23.26.147.19:1258/proxy/Smartv.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="Smartv",靖天国际
-http://23.26.147.19:1258/proxy/Smartv.php?id=jingtianintl_twn
-#EXTINF:-1 group-title="Smartv",TVBS News
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbs_n
-#EXTINF:-1 group-title="Smartv",TVBS
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbs
-#EXTINF:-1 group-title="Smartv",EYETV戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvxiju_twn
-#EXTINF:-1 group-title="Smartv",EYETV旅游
-http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvtravel_twn
-#EXTINF:-1 group-title="Smartv",TVBS欢乐
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbshuanle_twn
-#EXTINF:-1 group-title="Smartv",Viu6
-http://23.26.147.19:1258/proxy/Smartv.php?id=viusix_twn
-#EXTINF:-1 group-title="Smartv",国家地理
-http://23.26.147.19:1258/proxy/Smartv.php?id=natgeohd_twn
-#EXTINF:-1 group-title="Smartv",野生动物
-http://23.26.147.19:1258/proxy/Smartv.php?id=natgeowild_twn
-#EXTINF:-1 group-title="Smartv",Momo TV
-http://23.26.147.19:1258/proxy/Smartv.php?id=momo1_twn
-#EXTINF:-1 group-title="Smartv",亚洲旅游
-http://23.26.147.19:1258/proxy/Smartv.php?id=asiatravel_twn
-#EXTINF:-1 group-title="Smartv",AXNTaiwan
-http://23.26.147.19:1258/proxy/Smartv.php?id=axn_twn
-#EXTINF:-1 group-title="Smartv",动物星球1
-http://23.26.147.19:1258/proxy/Smartv.php?id=animalplanet_twn
-#EXTINF:-1 group-title="Smartv",CINEMAX
-http://23.26.147.19:1258/proxy/Smartv.php?id=cinemax_twn
-#EXTINF:-1 group-title="Smartv",CNBC
-http://23.26.147.19:1258/proxy/Smartv.php?id=cnbc_twn
-#EXTINF:-1 group-title="Smartv",DiscoveryAsia
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="Smartv",DiscoveryHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoveryhd_twn
-#EXTINF:-1 group-title="Smartv",DiscoveryTurbo
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoveryturbo_twn
-#EXTINF:-1 group-title="Smartv",BBCEarthHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbcearth_twn
-#EXTINF:-1 group-title="Smartv",BBCWorldNews
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbcnews_twn
-#EXTINF:-1 group-title="Smartv",BloombergNews
-http://23.26.147.19:1258/proxy/Smartv.php?id=bloomberg_twn
-#EXTINF:-1 group-title="Smartv",CBSHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=cbshd_glo
-#EXTINF:-1 group-title="Smartv",CBSNHD
-http://23.26.147.19:1258/proxy/Smartv.php?id=cbsn_glo
-#EXTINF:-1 group-title="Smartv",ABCNews
-http://23.26.147.19:1258/proxy/Smartv.php?id=abcnews_glo
-#EXTINF:-1 group-title="Smartv",BabyTV
-http://23.26.147.19:1258/proxy/Smartv.php?id=babytv_twn
-#EXTINF:-1 group-title="Smartv",CBSNews
-http://23.26.147.19:1258/proxy/Smartv.php?id=cbsn_glo
-#EXTINF:-1 group-title="Smartv",CNN
-http://23.26.147.19:1258/proxy/Smartv.php?id=cnn_twn
-#EXTINF:-1 group-title="Smartv",DiscoveryAsia
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="Smartv",ELEVEN体育1
-http://23.26.147.19:1258/proxy/Smartv.php?id=golfchannel_twn
-#EXTINF:-1 group-title="Smartv",EYETV戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvxiju_twn
-#EXTINF:-1 group-title="Smartv",FoxNews
-http://23.26.147.19:1258/proxy/Smartv.php?id=foxnews_twn
-#EXTINF:-1 group-title="Smartv",GOODTV真理
-http://23.26.147.19:1258/proxy/Smartv.php?id=good2_twn
-#EXTINF:-1 group-title="Smartv",HBO家庭
-http://23.26.147.19:1258/proxy/Smartv.php?id=fyi_twn
-#EXTINF:-1 group-title="Smartv",RTHK32
-http://23.26.147.19:1258/proxy/Smartv.php?id=rhk32_twn
-#EXTINF:-1 group-title="Smartv",TVBS新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbs_n
-#EXTINF:-1 group-title="Smartv",TVBS欢乐
-http://23.26.147.19:1258/proxy/Smartv.php?id=tvbshuanle_twn
-#EXTINF:-1 group-title="Smartv",WWE
-http://23.26.147.19:1258/proxy/Smartv.php?id=wwe_twn
-#EXTINF:-1 group-title="Smartv",三立台湾
-http://23.26.147.19:1258/proxy/Smartv.php?id=sanlitaiwan
-#EXTINF:-1 group-title="Smartv",三立戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="Smartv",三立综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=sanlizhonghe
-#EXTINF:-1 group-title="Smartv",中天亚洲
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctiasia_twn
-#EXTINF:-1 group-title="Smartv",中天娱乐
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctient
-#EXTINF:-1 group-title="Smartv",中视新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="Smartv",中视新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="Smartv",中视经典
-http://23.26.147.19:1258/proxy/Smartv.php?id=zhongshi_twn
-#EXTINF:-1 group-title="Smartv",亚洲旅游
-http://23.26.147.19:1258/proxy/Smartv.php?id=asiatravel_twn
-#EXTINF:-1 group-title="Smartv",八大戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=badadrama
-#EXTINF:-1 group-title="Smartv",八大第一
-http://23.26.147.19:1258/proxy/Smartv.php?id=badafirst
-#EXTINF:-1 group-title="Smartv",八大综合
-http://23.26.147.19:1258/proxy/Smartv.php?id=badazhonghe
-#EXTINF:-1 group-title="Smartv",公视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ctv_taiwan
-#EXTINF:-1 group-title="Smartv",动物星球
-http://23.26.147.19:1258/proxy/Smartv.php?id=animalplanet_twn
-#EXTINF:-1 group-title="Smartv",博斯网球
-http://23.26.147.19:1258/proxy/Smartv.php?id=bositennis_twn
-#EXTINF:-1 group-title="Smartv",博斯运动2
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosisport2_twn
-#EXTINF:-1 group-title="Smartv",博斯高球1
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosigolf1_twn
-#EXTINF:-1 group-title="Smartv",博斯高球1
-http://23.26.147.19:1258/proxy/Smartv.php?id=bosigolf1_twn
-#EXTINF:-1 group-title="Smartv",好莱坞电影
-http://23.26.147.19:1258/proxy/Smartv.php?id=hollywoodmovies_twn
-#EXTINF:-1 group-title="Smartv",爱尔达体育1
-http://23.26.147.19:1258/proxy/Smartv.php?id=eltasport2_twn
-#EXTINF:-1 group-title="Smartv",爱尔达体育2
-http://23.26.147.19:1258/proxy/Smartv.php?id=eltasport2_twn
-#EXTINF:-1 group-title="Smartv",探索亚洲
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="Smartv",探索动力
-http://23.26.147.19:1258/proxy/Smartv.php?id=discoveryturbo_twn
-#EXTINF:-1 group-title="Smartv",星卫电影
-http://23.26.147.19:1258/proxy/Smartv.php?id=xingwei_movie
-#EXTINF:-1 group-title="Smartv",时尚
-http://23.26.147.19:1258/proxy/Smartv.php?id=fashiontv_twn
-#EXTINF:-1 group-title="Smartv",东森财经
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvcaijing_twn
-#EXTINF:-1 group-title="Smartv",东森超视
-http://23.26.147.19:1258/proxy/Smartv.php?id=ettvsuper
-#EXTINF:-1 group-title="Smartv",民视新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="Smartv",美亚电影
-http://23.26.147.19:1258/proxy/Smartv.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="Smartv",靖天卡通
-http://23.26.147.19:1258/proxy/Smartv.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="Smartv",非凡新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=feifannews_twn
-#EXTINF:-1 group-title="Smartv",龙华戏剧
-http://23.26.147.19:1258/proxy/Smartv.php?id=lunghuaxiju_twn
-#EXTINF:-1 group-title="Smartv",Awani
-http://23.26.147.19:1258/proxy/Smartv.php?id=Awani
-#EXTINF:-1 group-title="Smartv",BBC
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbc1_antik
-#EXTINF:-1 group-title="Smartv",BBC1
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbc1_antik
-#EXTINF:-1 group-title="Smartv",BBC2
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbc2_antik
-#EXTINF:-1 group-title="Smartv",BBC WORLD NEWS
-http://23.26.147.19:1258/proxy/Smartv.php?id=bbcnews_twn
-#EXTINF:-1 group-title="Smartv",BTSports4
-http://23.26.147.19:1258/proxy/Smartv.php?id=btespn
-#EXTINF:-1 group-title="Smartv",CNA亚洲新闻
-http://23.26.147.19:1258/proxy/Smartv.php?id=cna
-#EXTINF:-1 group-title="Smartv",Euronews
-http://23.26.147.19:1258/proxy/Smartv.php?id=euronews_antik
-#EXTINF:-1 group-title="Smartv",TLC旅游生活
-http://23.26.147.19:1258/proxy/Smartv.php?id=tlc_twn
-#EXTINF:-1 group-title="Smartv",新加坡8
-http://23.26.147.19:1258/proxy/Smartv.php?id=TV8
-#EXTINF:-1 group-title="Smartv",翡翠
-http://23.26.147.19:1258/proxy/Smartv.php?id=jade_twn
-#EXTINF:-1 group-title="Smartv",翡翠
-http://23.26.147.19:1258/proxy/Smartv.php?id=Wlt
-#EXTINF:-1 group-title="Smartv",J the Kpop
-http://23.26.147.19:1258/proxy/Smartv.php?id=jthekpop_korea
-#EXTINF:-1 group-title="Smartv",SBS Plus
-http://23.26.147.19:1258/proxy/Smartv.php?id=sbsplus_korea
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-1 ç»¼åˆ" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-30/89a6b1fac3ceeee5134c28e169cf2251.png" group-title="å¤§é™†å¤®è§†",CCTV-1 ç»¼åˆ
+https://py.doube.eu.org/tv/histar/getUrl/cctv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-2 è´¢ç»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/e657b56596d96fffff3074eba0a738f0.png" group-title="å¤§é™†å¤®è§†",CCTV-2 è´¢ç»
+https://py.doube.eu.org/tv/histar/getUrl/cctv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-3 ç»¼è‰º" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/7342c95efd04ed9793cbfc5a0a8c879e.png" group-title="å¤§é™†å¤®è§†",CCTV-3 ç»¼è‰º
+https://py.doube.eu.org/tv/histar/getUrl/cctv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 ä¸­æ–‡å›½é™…" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/e0163c90dfbd0e5f61b4211a690fc9f6.png" group-title="å¤§é™†å¤®è§†",CCTV-4 ä¸­æ–‡å›½é™…
+https://py.doube.eu.org/tv/histar/getUrl/cctv4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5 ä½“è‚²" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/066bacb565742da8fbd5a0c7028084db.png" group-title="å¤§é™†å¤®è§†",CCTV-5 ä½“è‚²
+https://py.doube.eu.org/tv/histar/getUrl/cctv5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-6 ç”µå½±" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c33edddbe29ec9143d428f27d4a646ac.png" group-title="å¤§é™†å¤®è§†",CCTV-6 ç”µå½±
+https://py.doube.eu.org/tv/histar/getUrl/cctv6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-7 å›½é˜²å†›äº‹" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c80decf1aaac9eb5b55d262293d22567.png" group-title="å¤§é™†å¤®è§†",CCTV-7 å›½é˜²å†›äº‹
+https://py.doube.eu.org/tv/histar/getUrl/cctv7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8 ç”µè§†å‰§" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/da83cb27fd0848fb6ba28c79974b6867.png" group-title="å¤§é™†å¤®è§†",CCTV-8 ç”µè§†å‰§
+https://py.doube.eu.org/tv/histar/getUrl/cctv8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9 çºªå½•" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/f5a5867f230cbb1ed3dcd3bd690e9be4.png" group-title="å¤§é™†å¤®è§†",CCTV-9 çºªå½•
+https://py.doube.eu.org/tv/histar/getUrl/cctv9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-10 ç§‘æ•™" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/224d871be82883fc071ce82b2fbc8978.png" group-title="å¤§é™†å¤®è§†",CCTV-10 ç§‘æ•™
+https://py.doube.eu.org/tv/histar/getUrl/cctv10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-11 æˆæ›²" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/5b37d3f796bacd161fc8ad525fdfbfd9.png" group-title="å¤§é™†å¤®è§†",CCTV-11 æˆæ›²
+https://py.doube.eu.org/tv/histar/getUrl/cctv11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-12 ç¤¾ä¼šä¸Žæ³•" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/a0fd933f26f3573d5049c50e109c41b4.png" group-title="å¤§é™†å¤®è§†",CCTV-12 ç¤¾ä¼šä¸Žæ³•
+https://py.doube.eu.org/tv/histar/getUrl/cctv12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-13 æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/053124d7e916a14c60e7cb77cd95bd0f.png" group-title="å¤§é™†å¤®è§†",CCTV-13 æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/cctv13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-14 å°‘å„¿" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/a79b5b3bb88b512ce968a369ac193176.png" group-title="å¤§é™†å¤®è§†",CCTV-14 å°‘å„¿
+https://py.doube.eu.org/tv/histar/getUrl/cctv14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-15 éŸ³ä¹" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/3639c6aaa5151cb9d7b75d5994046e3f.png" group-title="å¤§é™†å¤®è§†",CCTV-15 éŸ³ä¹
+https://py.doube.eu.org/tv/histar/getUrl/cctv15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-16 å¥¥æž—åŒ¹å…‹" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/504d70fb569134a353f5ffc39ceb0229.png" group-title="å¤§é™†å¤®è§†",CCTV-16 å¥¥æž—åŒ¹å…‹
+https://py.doube.eu.org/tv/histar/getUrl/cctv16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-17 å†œä¸šå†œæ‘" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/3dc3e477aba3405133386eee71238a40.png" group-title="å¤§é™†å¤®è§†",CCTV-17 å†œä¸šå†œæ‘
+https://py.doube.eu.org/tv/histar/getUrl/cctv17/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+ ä½“è‚²èµ›äº‹" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/dc090d2903d93841e3a322cb8e1ff6e9.png" group-title="å¤§é™†å¤®è§†",CCTV-5+ ä½“è‚²èµ›äº‹
+https://py.doube.eu.org/tv/histar/getUrl/cctv5plus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¹–å—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/290ebbfaed1914c1de1b752359f49421.png" group-title="å¤§é™†å«è§†",æ¹–å—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/hunan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æµ™æ±Ÿå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/47ceafd9cf44cccd24a129ae2a62c0ea.png" group-title="å¤§é™†å«è§†",æµ™æ±Ÿå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/zhejiang/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œæ–¹å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/bc40658602043d05d7d41f5b5690ecc2.png" group-title="å¤§é™†å«è§†",ä¸œæ–¹å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/dongfang/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ±Ÿè‹å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/cbeb656f088d3cab170d886c74c31f86.png" group-title="å¤§é™†å«è§†",æ±Ÿè‹å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/jiangsu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åŒ—äº¬å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/2394d416aabb7865ed790faefd263ec5.png" group-title="å¤§é™†å«è§†",åŒ—äº¬å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/beijing/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ·±åœ³å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/181eb4f3053e6c94e4206704c4074492.png" group-title="å¤§é™†å«è§†",æ·±åœ³å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/shenzhen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¹¿ä¸œå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/65a07c81762d75b5dfb15e87aba4b5b6.png" group-title="å¤§é™†å«è§†",å¹¿ä¸œå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/guangdong/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¤§æ¹¾åŒºå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-12/4d94d53dc0dae73430aaad819e5ec5c2.webp" group-title="å¤§é™†å«è§†",å¤§æ¹¾åŒºå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/gdwqws/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é‡åº†å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/1e4b95da850b6b9c0bead92047ef2660.png" group-title="å¤§é™†å«è§†",é‡åº†å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/chongqing/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œå—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/58293d3dfee292fe584261f617ca31f2.png" group-title="å¤§é™†å«è§†",ä¸œå—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/dongnan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¹¿è¥¿å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/511cdb6f94db861ace7f246f55cacb36.png" group-title="å¤§é™†å«è§†",å¹¿è¥¿å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/guangxi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="è´µå·žå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/b53bb38bf456ebc9d20be7922ea10a70.png" group-title="å¤§é™†å«è§†",è´µå·žå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/guizhou/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æµ·å—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/95f170d56a00f1eb078055322cf85aaf.png" group-title="å¤§é™†å«è§†",æµ·å—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/hainan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ²³åŒ—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/83df61a38e9619fcf473dd9fc25f2710.png" group-title="å¤§é™†å«è§†",æ²³åŒ—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/hebei/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é»‘é¾™æ±Ÿå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/f17a70863e213abac648cf2c0975fa87.png" group-title="å¤§é™†å«è§†",é»‘é¾™æ±Ÿå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/heilongjiang/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¹–åŒ—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/95d03fedb9867e96ea69aa59d198ae5b.png" group-title="å¤§é™†å«è§†",æ¹–åŒ—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/hubei/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ±Ÿè¥¿å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/cced15e2301aefcc56374669b8841cf6.png" group-title="å¤§é™†å«è§†",æ±Ÿè¥¿å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/jiangxi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å‰æž—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c97c03243af4d641d4e25f4ef87cb3cc.png" group-title="å¤§é™†å«è§†",å‰æž—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/jilin/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="è¾½å®å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/74fc5d74452ea644913a950977fca5d2.png" group-title="å¤§é™†å«è§†",è¾½å®å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/liaoning/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å†…è’™å¤å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/718b049d79afb39fab491d4c9d0abb59.png" group-title="å¤§é™†å«è§†",å†…è’™å¤å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/neimenggu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å®å¤å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/3011fd583d4a12fddceb9bff10f5729d.png" group-title="å¤§é™†å«è§†",å®å¤å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/ningxia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é™•è¥¿å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/5f766f08b644f9914250b66c7ecb9d2c.png" group-title="å¤§é™†å«è§†",é™•è¥¿å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/shaanxi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å±±ä¸œå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/cddf68286ede702507f089e5aa8ae7e5.png" group-title="å¤§é™†å«è§†",å±±ä¸œå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/shandong/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å±±è¥¿å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/8debab5a161889613e07cf8555433463.png" group-title="å¤§é™†å«è§†",å±±è¥¿å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/shanxi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å››å·å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/f414ec22f12993e13996639d34c14c62.png" group-title="å¤§é™†å«è§†",å››å·å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/sichuan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¤©æ´¥å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/ae4cc844873c10620a98d5610afdceb9.png" group-title="å¤§é™†å«è§†",å¤©æ´¥å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/tianjin/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åŽ¦é—¨å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/ee5ca106d68ac8f503af86c701ad9427.png" group-title="å¤§é™†å«è§†",åŽ¦é—¨å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/xiamen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ–°ç–†å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/7b7e7e72f91a764a35c74abbf5eeceb6.png" group-title="å¤§é™†å«è§†",æ–°ç–†å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/xinjiang/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="è¥¿è—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/0e674400a99bc3dd9bba3a90e6f86957.png" group-title="å¤§é™†å«è§†",è¥¿è—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/xizang/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="äº‘å—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/4c6794058ccefe2d561823a849d84430.png" group-title="å¤§é™†å«è§†",äº‘å—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/yunnan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å®‰å¾½å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/d7b25866d437441782e7a316614d8484.png" group-title="å¤§é™†å«è§†",å®‰å¾½å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/anhui/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ²³å—å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c773f7c6705b79b31dd5402eb688e0f4.png" group-title="å¤§é™†å«è§†",æ²³å—å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/henan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é’æµ·å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/54689a36ae39c43655c984143adfb058.png" group-title="å¤§é™†å«è§†",é’æµ·å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/qinghai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ç”˜è‚ƒå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/12bcd007d60ac36a7236475a27960705.png" group-title="å¤§é™†å«è§†",ç”˜è‚ƒå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/gansu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB ç¿¡ç¿ å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-01/2c99cb2f2dde32d3fae9ec262a162c86.png" group-title="æ¸¯æ¾³é¢‘é“",TVB ç¿¡ç¿ å°
+https://py.doube.eu.org/tv/histar/getUrl/feicui/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB æ— çº¿æ–°é—»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-01/d366a6311b8a8fee610e42461a8cd709.png" group-title="æ¸¯æ¾³é¢‘é“",TVB æ— çº¿æ–°é—»å°
+https://py.doube.eu.org/tv/histar/getUrl/tvb-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB é»„é‡‘ç¿¡ç¿ å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/0bfc1ddecce41331aa3f580349ca5be1.webp" group-title="æ¸¯æ¾³é¢‘é“",TVB é»„é‡‘ç¿¡ç¿ å°
+https://py.doube.eu.org/tv/histar/getUrl/golden-jade/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB é»„é‡‘åŽå‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/d7760189eb8ff8f2a818e77387d492de.webp" group-title="æ¸¯æ¾³é¢‘é“",TVB é»„é‡‘åŽå‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/golden-chinese-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB åƒç¦§ç»å…¸å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-01/9171e6882ac57afdc068215f27618805.png" group-title="æ¸¯æ¾³é¢‘é“",TVB åƒç¦§ç»å…¸å°
+https://py.doube.eu.org/tv/histar/getUrl/tvb-classic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB ç²¤è¯­ç‰‡å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-01/fe61ec22293693cd46c663d5c73e1daf.png" group-title="æ¸¯æ¾³é¢‘é“",TVB ç²¤è¯­ç‰‡å°
+https://py.doube.eu.org/tv/histar/getUrl/tvb-yueyu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB æ˜Ÿæ²³å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-01/ae1b3b34788eab75757ff6faec58b437.png" group-title="æ¸¯æ¾³é¢‘é“",TVB æ˜Ÿæ²³å°
+https://py.doube.eu.org/tv/histar/getUrl/tvb-xinghe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB äºšæ´²å‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-06-09/e10f4078e1d6a35f129726a3aeceea89.png" group-title="æ¸¯æ¾³é¢‘é“",TVB äºšæ´²å‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/tvb-asia-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB æ— çº¿è´¢ç»ä½“è‚²èµ„è®¯å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-01/94abbaf239e204daf07392049a7298b5.png" group-title="æ¸¯æ¾³é¢‘é“",TVB æ— çº¿è´¢ç»ä½“è‚²èµ„è®¯å°
+https://py.doube.eu.org/tv/histar/getUrl/tvb-finance/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB å¨±ä¹æ–°é—»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-01/37963d662b052768cce4ddc78f351b66.png" group-title="æ¸¯æ¾³é¢‘é“",TVB å¨±ä¹æ–°é—»å°
+https://py.doube.eu.org/tv/histar/getUrl/TVB-ylxw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/0eaa193be35dd1c988cb0b5f71c2a6a1.png" group-title="æ¸¯æ¾³é¢‘é“",J2
+https://py.doube.eu.org/tv/histar/getUrl/j2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB æ˜Žç å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/1c6d11dd96fb687d6e2dbadb50b6e158.png" group-title="æ¸¯æ¾³é¢‘é“",TVB æ˜Žç å°
+https://py.doube.eu.org/tv/histar/getUrl/pearl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB åŽè¯­å‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-01/66b8e9f6a1df7c50c31fe4114ba77a6d.png" group-title="æ¸¯æ¾³é¢‘é“",TVB åŽè¯­å‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/tvb-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å‡¤å‡°å«è§† èµ„è®¯å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/a2ba87c3a92d8c3405cdd499f02b62c4.png" group-title="æ¸¯æ¾³é¢‘é“",å‡¤å‡°å«è§† èµ„è®¯å°
+https://py.doube.eu.org/tv/histar/getUrl/phtv-info/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å‡¤å‡°å«è§† ä¸­æ–‡å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/f91bf4be0368c384d6b89fee973fe19f.png" group-title="æ¸¯æ¾³é¢‘é“",å‡¤å‡°å«è§† ä¸­æ–‡å°
+https://py.doube.eu.org/tv/histar/getUrl/phtv-cn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å‡¤å‡°å«è§† é¦™æ¸¯å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/ebb5fbfd2d6beb46775014731f5781a3.png" group-title="æ¸¯æ¾³é¢‘é“",å‡¤å‡°å«è§† é¦™æ¸¯å°
+https://py.doube.eu.org/tv/histar/getUrl/phtv-hk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOY èµ„è®¯å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c9887a22769a3efd48eed67bdb4cb071.png" group-title="æ¸¯æ¾³é¢‘é“",HOY èµ„è®¯å°
+https://py.doube.eu.org/tv/histar/getUrl/hoy-info/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOY TV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/a40676e3892cb653fe17391534ccacfe.png" group-title="æ¸¯æ¾³é¢‘é“",HOY TV
+https://py.doube.eu.org/tv/histar/getUrl/hoytv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOYå›½é™…è´¢ç»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/79add1b9977b00819f290e96cb343fc9.webp" group-title="æ¸¯æ¾³é¢‘é“",HOYå›½é™…è´¢ç»
+https://py.doube.eu.org/tv/histar/getUrl/hoy-ibc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/073d7fa599cf9e6949d1a9c47450defd.png" group-title="æ¸¯æ¾³é¢‘é“",ViuTV
+https://py.doube.eu.org/tv/histar/getUrl/viutv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c643fd19a43b9bd717dac14fe37c9657.png" group-title="æ¸¯æ¾³é¢‘é“",ViuTV6
+https://py.doube.eu.org/tv/histar/getUrl/viutv6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¤©æ˜ é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/10bc585d63a7412efe5fb0c2ad16138d.png" group-title="æ¸¯æ¾³é¢‘é“",å¤©æ˜ é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/celestial/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¤©æ˜ ç»å…¸" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/b0d62f754541d971b77027f5fe72962c.png" group-title="æ¸¯æ¾³é¢‘é“",å¤©æ˜ ç»å…¸
+https://py.doube.eu.org/tv/histar/getUrl/cccm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ˜Ÿç©ºå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/1c5ee90858f82887a7abb0d2c6b88b39.webp" group-title="æ¸¯æ¾³é¢‘é“",æ˜Ÿç©ºå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/star-xing-kong/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é¦™æ¸¯å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/c4b2bf2a86988b820305287f6f5c0b8a.webp" group-title="æ¸¯æ¾³é¢‘é“",é¦™æ¸¯å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/hks/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¾³äºšå«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/752a763e1cf551e425eedd309b8207fa.webp" group-title="æ¸¯æ¾³é¢‘é“",æ¾³äºšå«è§†
+https://py.doube.eu.org/tv/histar/getUrl/mastv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¾³é—¨å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/5550b22613fd643366e49036158cab38.webp" group-title="æ¸¯æ¾³é¢‘é“",æ¾³é—¨å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/mstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¾³é—¨èŽ²èŠ±å«è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-17/e71736a532525f498ac213159f799699.png" group-title="æ¸¯æ¾³é¢‘é“",æ¾³é—¨èŽ²èŠ±å«è§†
+https://py.doube.eu.org/tv/histar/getUrl/lotustv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¾³é—¨èµ„è®¯" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-25/c6de9ea82b5b4052c1a11e4c880e45ab.webp" group-title="æ¸¯æ¾³é¢‘é“",æ¾³é—¨èµ„è®¯
+https://py.doube.eu.org/tv/histar/getUrl/tdm-information/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¾³è§†æ¾³é—¨" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-25/8074669df94cfc33cac4e7813cc59310.webp" group-title="æ¸¯æ¾³é¢‘é“",æ¾³è§†æ¾³é—¨
+https://py.doube.eu.org/tv/histar/getUrl/tdm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HKC 18å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/5b21a3bdc8b6472605585d2bd71fa5ab.webp" group-title="æ¸¯æ¾³é¢‘é“",HKC 18å°
+https://py.doube.eu.org/tv/histar/getUrl/hkc18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¸¯å°ç”µè§† 31" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/bb4ec9fc1d0b012e97e31d1ba20ca5e8.png" group-title="æ¸¯æ¾³é¢‘é“",æ¸¯å°ç”µè§† 31
+https://py.doube.eu.org/tv/histar/getUrl/rthk31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ¸¯å°ç”µè§† 32" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/a40bcf74cd0220c02dac0d6a252588d7.png" group-title="æ¸¯æ¾³é¢‘é“",æ¸¯å°ç”µè§† 32
+https://py.doube.eu.org/tv/histar/getUrl/rthk32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now è´¢ç»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/825246738b4d937fa3e4adb3492a6f35.png" group-title="é¦™æ¸¯Nowç³»åˆ—",Now è´¢ç»å°
+https://py.doube.eu.org/tv/histar/getUrl/now-finance/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now çˆ†è°·å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-26/56162888526c89dd07f29ee0855d8c0a.png" group-title="é¦™æ¸¯Nowç³»åˆ—",Now çˆ†è°·å°
+https://py.doube.eu.org/tv/histar/getUrl/baogu-movies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now æ˜Ÿå½±å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-06-05/a759c098f343a0d786e82e6e87b430ec.png" group-title="é¦™æ¸¯Nowç³»åˆ—",Now æ˜Ÿå½±å°
+https://py.doube.eu.org/tv/histar/getUrl/now-baogu-superstars/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now æ–°é—»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/07591c44b82da02b3800b075c4cb6c58.png" group-title="é¦™æ¸¯Nowç³»åˆ—",Now æ–°é—»å°
+https://py.doube.eu.org/tv/histar/getUrl/now-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now ç›´æ’­å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/d7bf718bda6a93e07185e8edc72b4261.png" group-title="é¦™æ¸¯Nowç³»åˆ—",Now ç›´æ’­å°
+https://py.doube.eu.org/tv/histar/getUrl/now-direct/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NowæŠ¥ä»·å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/c34a0f18be92d94df6d049e37f01c32a.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",NowæŠ¥ä»·å°
+https://py.doube.eu.org/tv/histar/getUrl/now-data/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now jelliç´«é‡‘å›½é™…å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/a510216a1821d9900d71c7bc58c6cc02.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now jelliç´«é‡‘å›½é™…å°
+https://py.doube.eu.org/tv/histar/getUrl/now-jelli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NowåŽå‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/6fff27f2b24d51ca33239e6843c77a94.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",NowåŽå‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/now-chinese-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NowViuå‰§é›†å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/e404158bcd04f6d53753d6d3831f5d4d.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",NowViuå‰§é›†å°
+https://py.doube.eu.org/tv/histar/getUrl/now-viu-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sportsç²¾é€‰" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-18/943d71394c6df6118c1c82a4ff509888.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sportsç²¾é€‰
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-prime/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/9bf6d223da1a7998ce25de20895ed5e4.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports 1
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/0a5633dac5427187616800837abacbd7.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports 2
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/751684021e949c5d533ff41fbdf7ef6a.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports 3
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 4" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/5e7c956a12d18f356a83065795ffc595.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports 4
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 5" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/655c00bded182b481fdf71404e14fbaf.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports 5
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 6" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/cac342b292c56bc3cb1ad3808420b76a.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports 6
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 7" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/e942d49d3a616e0810653a692dccfaed.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports 7
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports Plus" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/57afd22243993f94088d67cf9f3dbe30.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports Plus
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-plus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports è‹±è¶…1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/225d2856e1454b49bb0a8304b9b3d9c1.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports è‹±è¶…1
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-premier-league1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports è‹±è¶…2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/ca093b4944a6fbe4e8b54b0afe18f89e.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports è‹±è¶…2
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-premier-league2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports è‹±è¶…3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/69a1fac425c8dbd7d29619190718b515.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports è‹±è¶…3
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-premier-league3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports è‹±è¶…4" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/01386111dbd7352bbc87e01a06939d70.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports è‹±è¶…4
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-premier-league4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports è‹±è¶…5" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/9b8cdc261aa0984c589d5e603aeaff4f.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports è‹±è¶…5
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-premier-league5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports è‹±è¶…6" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/a40c4c91d409d8157e600bd6b16af014.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Sports è‹±è¶…6
+https://py.doube.eu.org/tv/histar/getUrl/now-sports-premier-league6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now 668" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/0998dd1bf452b5c4ab48db545ce359e1.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now 668
+https://py.doube.eu.org/tv/histar/getUrl/now-668/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Golf 2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/610060467f2e0a0faddfc675943c1c1d.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Golf 2
+https://py.doube.eu.org/tv/histar/getUrl/now-golf2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Golf 3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/0c8e21306eaf2d4b22376ac128ef0753.webp" group-title="é¦™æ¸¯Nowç³»åˆ—",Now Golf 3
+https://py.doube.eu.org/tv/histar/getUrl/now-golf3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ°‘è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/192c73df6c371ad942188aac7b33c27f.webp" group-title="å°æ¹¾ç»¼åˆ",æ°‘è§†
+https://py.doube.eu.org/tv/histar/getUrl/ftv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ°‘è§†å°æ¹¾å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/0b6d9dcd891129091995aa4403bee1f8.webp" group-title="å°æ¹¾ç»¼åˆ",æ°‘è§†å°æ¹¾å°
+https://py.doube.eu.org/tv/histar/getUrl/ftv-tw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ°‘è§†ç¬¬ä¸€å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/fba2cb02315584f1360478e2d85dcba0.webp" group-title="å°æ¹¾ç»¼åˆ",æ°‘è§†ç¬¬ä¸€å°
+https://py.doube.eu.org/tv/histar/getUrl/ftv-one/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="çº¬æ¥æ—¥æœ¬" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/13128ee3ad19c9b26d3484ba55c05906.png" group-title="å°æ¹¾ç»¼åˆ",çº¬æ¥æ—¥æœ¬
+https://py.doube.eu.org/tv/histar/getUrl/videoland-japan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="çº¬æ¥ç»¼åˆ" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/664568f0fb8a3582b0872b114ece60df.webp" group-title="å°æ¹¾ç»¼åˆ",çº¬æ¥ç»¼åˆ
+https://py.doube.eu.org/tv/histar/getUrl/videoland/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…«å¤§ç»¼åˆ" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/558b4ad6c4eac925d929ae4ad6462b0f.webp" group-title="å°æ¹¾ç»¼åˆ",å…«å¤§ç»¼åˆ
+https://py.doube.eu.org/tv/histar/getUrl/gtv28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…«å¤§ç¬¬ä¸€" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/00394c7dfaa397872e8b1ad5a1be7033.webp" group-title="å°æ¹¾ç»¼åˆ",å…«å¤§ç¬¬ä¸€
+https://py.doube.eu.org/tv/histar/getUrl/gtv27/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS ç²¾é‡‡å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/2beaeed7883835d2b7fed0e5f4ac5e58.png" group-title="å°æ¹¾ç»¼åˆ",TVBS ç²¾é‡‡å°
+https://py.doube.eu.org/tv/histar/getUrl/tvbs-jc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS æ¬¢ä¹å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/37e3078e70e65577602ab9b033471c3c.png" group-title="å°æ¹¾ç»¼åˆ",TVBS æ¬¢ä¹å°
+https://py.doube.eu.org/tv/histar/getUrl/tvbs-huanle/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸‰ç«‹å°æ¹¾å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/10916e4b4dcba81b0cc7cc9cba0097ec.webp" group-title="å°æ¹¾ç»¼åˆ",ä¸‰ç«‹å°æ¹¾å°
+https://py.doube.eu.org/tv/histar/getUrl/settv-taiwan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸‰ç«‹ç»¼åˆå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/5c33ecbef9ed0fdeda5ec5501da1db9d.webp" group-title="å°æ¹¾ç»¼åˆ",ä¸‰ç«‹ç»¼åˆå°
+https://py.doube.eu.org/tv/histar/getUrl/settv-zonghe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å°è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/9192739a88bbcc951393db9af80b307c.png" group-title="å°æ¹¾ç»¼åˆ",å°è§†
+https://py.doube.eu.org/tv/histar/getUrl/ttv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œæ£®è¶…è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/059b1ee2d4e5b0394db0077a7b8d6a79.webp" group-title="å°æ¹¾ç»¼åˆ",ä¸œæ£®è¶…è§†
+https://py.doube.eu.org/tv/histar/getUrl/ebc-super/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œæ£®ç»¼åˆå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/70fda4dde38d46532b07675a6de8e95a.png" group-title="å°æ¹¾ç»¼åˆ",ä¸œæ£®ç»¼åˆå°
+https://py.doube.eu.org/tv/histar/getUrl/ebc-ettv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸­è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/145339891c6f7a3b10c419e5609eecad.png" group-title="å°æ¹¾ç»¼åˆ",ä¸­è§†
+https://py.doube.eu.org/tv/histar/getUrl/ctv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸­è§†èé‡‡å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/59ebd42720562317d7e597aa2e827ce7.png" group-title="å°æ¹¾ç»¼åˆ",ä¸­è§†èé‡‡å°
+https://py.doube.eu.org/tv/histar/getUrl/bravo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸­å¤©äºšæ´²" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/3e90369102a4c45aedf50c8e015a608c.webp" group-title="å°æ¹¾ç»¼åˆ",ä¸­å¤©äºšæ´²
+https://py.doube.eu.org/tv/histar/getUrl/cti-asia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åŽè§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/083c995ab55bae1a27326cd45d35c859.png" group-title="å°æ¹¾ç»¼åˆ",åŽè§†
+https://py.doube.eu.org/tv/histar/getUrl/cts/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LiveABC äº’åŠ¨è‹±è¯­é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/49a7aae8680cc28d55d0093c54755644.png" group-title="å°æ¹¾ç»¼åˆ",LiveABC äº’åŠ¨è‹±è¯­é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/liveabc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¥½æ¶ˆæ¯" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-15/48bdde48abac2625bce09e9d576a201e.png" group-title="å°æ¹¾ç»¼åˆ",å¥½æ¶ˆæ¯
+https://py.doube.eu.org/tv/histar/getUrl/goodtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KLT-é–å¤©å›½é™…å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c1554ffd0e9d53c23b876fb106ff27ea.png" group-title="å°æ¹¾ç»¼åˆ",KLT-é–å¤©å›½é™…å°
+https://py.doube.eu.org/tv/histar/getUrl/jtgj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTAç»¼åˆå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-18/374f3b0f2ac2932e208c5a2f5d7b4f2b.webp" group-title="å°æ¹¾ç»¼åˆ",ELTAç»¼åˆå°
+https://py.doube.eu.org/tv/histar/getUrl/elta-zonghe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…¬è§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/544ec39a29335b6ddd858cdcb314cdd5.png" group-title="å°æ¹¾ç»¼åˆ",å…¬è§†
+https://py.doube.eu.org/tv/histar/getUrl/pts/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…¬è§†3å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/cbbe84c14309e75882fb1fac0050b45b.webp" group-title="å°æ¹¾ç»¼åˆ",å…¬è§†3å°
+https://py.doube.eu.org/tv/histar/getUrl/pts-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…¬è§†å°è¯­å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/61134f41c991182b621d4fcf711b99fa.webp" group-title="å°æ¹¾ç»¼åˆ",å…¬è§†å°è¯­å°
+https://py.doube.eu.org/tv/histar/getUrl/pts-ty/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–å¤©ç»¼åˆå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/004a1203814d37e021b5fcb50cd2b323.png" group-title="å°æ¹¾ç»¼åˆ",é–å¤©ç»¼åˆå°
+https://py.doube.eu.org/tv/histar/getUrl/jtzh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å®¢å®¶ç”µè§†å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/bbf7de5abf4b2ec22dc3677245594a6b.png" group-title="å°æ¹¾ç»¼åˆ",å®¢å®¶ç”µè§†å°
+https://py.doube.eu.org/tv/histar/getUrl/hakkatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¤§çˆ±ä¸€å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-18/db88abb55834d8b0864ba681c3f4d80a.png" group-title="å°æ¹¾ç»¼åˆ",å¤§çˆ±ä¸€å°
+https://py.doube.eu.org/tv/histar/getUrl/daai1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¤§çˆ±äºŒå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/3047fff0f5a07dd0c3a4fc9958f24335.png" group-title="å°æ¹¾ç»¼åˆ",å¤§çˆ±äºŒå°
+https://py.doube.eu.org/tv/histar/getUrl/daai2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG é˜¿é‡ŒéƒŽé¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/8513336ce5c06e9bac9c09ca95afae43.png" group-title="å°æ¹¾ç»¼åˆ",ARIRANG é˜¿é‡ŒéƒŽé¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/arirang/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸­å¤©æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/bc5aca03df0b8481f2f0d1d90167c9d1.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",ä¸­å¤©æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/cti-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS æ–°é—»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/b4555f5a3a2c872195304987e9f4f324.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",TVBS æ–°é—»å°
+https://py.doube.eu.org/tv/histar/getUrl/tvbs-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-24/1431476b939b5aab63ad4aa3c88067b1.webp" group-title="å°æ¹¾æ–°é—»è´¢ç»",TVBS HD
+https://py.doube.eu.org/tv/histar/getUrl/tvbs-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œæ£®æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/90050ed8b153419ad48c29c1f610d5ab.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",ä¸œæ£®æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/ebc-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œæ£®è´¢ç»æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/20804acec838b898ce1d7c285ba0b620.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",ä¸œæ£®è´¢ç»æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/ebc-finance/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¯°å®‡æ–°é—»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/9086bc40db3d082feae4a09fffbbf811.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",å¯°å®‡æ–°é—»å°
+https://py.doube.eu.org/tv/histar/getUrl/global-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¯°å®‡è´¢ç»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/3219711760f7d23df37e6ba379db6b28.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",å¯°å®‡è´¢ç»å°
+https://py.doube.eu.org/tv/histar/getUrl/global-finance/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¯°å®‡æ–°é—»å°æ¹¾å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/32715895d6f20aa9f176fed76327ee8a.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",å¯°å®‡æ–°é—»å°æ¹¾å°
+https://py.doube.eu.org/tv/histar/getUrl/global-news-tw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å£¹æ–°é—» HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-24/7db697b8858852edf24f2829d11d7207.webp" group-title="å°æ¹¾æ–°é—»è´¢ç»",å£¹æ–°é—» HD
+https://py.doube.eu.org/tv/histar/getUrl/nexttv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸‰ç«‹æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/56ce31a046efad8c788629b357246b06.webp" group-title="å°æ¹¾æ–°é—»è´¢ç»",ä¸‰ç«‹æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/settv-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸‰ç«‹iNews" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/015c78fca210247ad026cfdf899208ca.webp" group-title="å°æ¹¾æ–°é—»è´¢ç»",ä¸‰ç«‹iNews
+https://py.doube.eu.org/tv/histar/getUrl/settv-inews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸­è§†æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-17/e85e6017ebe02e7feb82688866d83666.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",ä¸­è§†æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/ctv-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="éžå‡¡æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/cdd0f57cd5a1e3e43f143f286acc30d9.webp" group-title="å°æ¹¾æ–°é—»è´¢ç»",éžå‡¡æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/unique-business-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¹´ä»£æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/2f530a19f9ec55c127ba68a5bd2dfea4.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",å¹´ä»£æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/era-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ°‘è§†æ–°é—»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/f1f40cd9b54511bb44d3945d31933116.webp" group-title="å°æ¹¾æ–°é—»è´¢ç»",æ°‘è§†æ–°é—»å°
+https://py.doube.eu.org/tv/histar/getUrl/ftv-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å°è§†æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/0b4d8f48cc1b12293be8f91ffa72034c.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",å°è§†æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/ttv-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é•œç”µè§†æ–°é—»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/8c98c63946afa00f460e15f5f8330122.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",é•œç”µè§†æ–°é—»å°
+https://py.doube.eu.org/tv/histar/getUrl/mnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åŽè§†æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/6fabf96a75d3cada67158ab5b66633d4.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",åŽè§†æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/cts-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åŠå²›å›½é™…æ–°é—»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/666fbe5dfcc9107e72c1515f7d8a9c9f.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",åŠå²›å›½é™…æ–°é—»å°
+https://py.doube.eu.org/tv/histar/getUrl/aljazeera/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBN å…¨çƒè´¢ç»å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/068aad1e888ce64ed66dd356967a002e.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",SBN å…¨çƒè´¢ç»å°
+https://py.doube.eu.org/tv/histar/getUrl/sbn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–å¤©èµ„è®¯å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-15/da3e22afe77f3f2209b2b565bebf0402.png" group-title="å°æ¹¾æ–°é—»è´¢ç»",é–å¤©èµ„è®¯å°
+https://py.doube.eu.org/tv/histar/getUrl/jtzx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="çº¬æ¥ç”µå½±å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/94bae399b66709dcb932d90adc95e0d7.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",çº¬æ¥ç”µå½±å°
+https://py.doube.eu.org/tv/histar/getUrl/videoland-movie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="çº¬æ¥æˆå‰§" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/53aa54afef6336891621befd4e0d7cbf.webp" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",çº¬æ¥æˆå‰§
+https://py.doube.eu.org/tv/histar/getUrl/videoland-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é¾™ç¥¥ç”µå½±å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/94e2fe21f47230e1e4424e880845b397.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é¾™ç¥¥ç”µå½±å°
+https://py.doube.eu.org/tv/histar/getUrl/lstime/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é¾™åŽç”µå½±å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/e9d3aaa2365ec961e38f3dfec83b2f2c.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é¾™åŽç”µå½±å°
+https://py.doube.eu.org/tv/histar/getUrl/ltv-movies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é¾™åŽæˆå‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/b0f489d652b744bafc50e78513ca4df6.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é¾™åŽæˆå‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/ltv-xiju/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é¾™åŽæ—¥éŸ©å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/562e933a4d9c82abd002b34ab2fc1da9.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é¾™åŽæ—¥éŸ©å°
+https://py.doube.eu.org/tv/histar/getUrl/ltv-rihan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œæ£®ç”µå½±" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/c0d9239ba4048db181fb1a2fac57a932.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",ä¸œæ£®ç”µå½±
+https://py.doube.eu.org/tv/histar/getUrl/ebc-movie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œæ£®æ´‹ç‰‡" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/548efcbaee6549ca5f653ecbaa44be2a.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",ä¸œæ£®æ´‹ç‰‡
+https://py.doube.eu.org/tv/histar/getUrl/ebc-emovie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…«å¤§ç²¾å½©å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/4bee8d93e9ce1b30fa3d67b6676990d8.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",å…«å¤§ç²¾å½©å°
+https://py.doube.eu.org/tv/histar/getUrl/gtv-jct/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…«å¤§æˆå‰§" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/c11320b045bcda9ceab215b88e52f585.webp" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",å…«å¤§æˆå‰§
+https://py.doube.eu.org/tv/histar/getUrl/gtv-41/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…«å¤§å¨±ä¹" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/46e5a370c626d1e27216e6e25b1f52aa.webp" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",å…«å¤§å¨±ä¹
+https://py.doube.eu.org/tv/histar/getUrl/gtv-86/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…«å¤§ç»¼è‰º" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-12/c121bd8d283bebdf400c10b84f1aafa5.webp" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",å…«å¤§ç»¼è‰º
+https://py.doube.eu.org/tv/histar/getUrl/grt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é‡‡æ˜Œå½±å‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/ca4d5c7654ee3e9283ef7bab07954366.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é‡‡æ˜Œå½±å‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/caichang/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ç¾Žäºšç”µå½±å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/03eca8ccd8c7c33fb673652eff43fbc9.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",ç¾Žäºšç”µå½±å°
+https://py.doube.eu.org/tv/histar/getUrl/meiah-movies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="çŒªå“¥äº®æ­ŒåŽ…ç§€" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/3b5d0c8c381f0aef8f802b06509fe21f.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",çŒªå“¥äº®æ­ŒåŽ…ç§€
+https://py.doube.eu.org/tv/histar/getUrl/zglgtx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ°‘è§†ç»¼è‰º" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/3c12761ad6d2349ee3677cd1b76d31e4.webp" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",æ°‘è§†ç»¼è‰º
+https://py.doube.eu.org/tv/histar/getUrl/ftv-reality/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ°‘è§†å½±å‰§" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/89259274b3137ff9bb63e045e20ef149.webp" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",æ°‘è§†å½±å‰§
+https://py.doube.eu.org/tv/histar/getUrl/ftv-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸‰ç«‹æˆå‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/73365fb894baa3228c0143c7fd9fadb1.webp" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",ä¸‰ç«‹æˆå‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/settv-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸­è§†ç»å…¸å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-15/2b8320d3d81f0948c52781752ecd803c.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",ä¸­è§†ç»å…¸å°
+https://py.doube.eu.org/tv/histar/getUrl/ctv-classic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸­å¤©å¨±ä¹" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/14903d4cffa420f8a72ae33880dfa97d.webp" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",ä¸­å¤©å¨±ä¹
+https://py.doube.eu.org/tv/histar/getUrl/cti-yule/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–æ´‹æˆå‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-07-18/bef189dee708f89262d2c97794c2d5e8.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é–æ´‹æˆå‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/jyxj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–å¤©æ˜ ç”»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/73aaa94ef1d0997560ae56121fa4c2c2.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é–å¤©æ˜ ç”»
+https://py.doube.eu.org/tv/histar/getUrl/jtyh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–å¤©ç”µå½±å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/97d335b08f3c19e143b0459e1d25f9b5.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é–å¤©ç”µå½±å°
+https://py.doube.eu.org/tv/histar/getUrl/jtdy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–å¤©æˆå‰§å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/d53ef6804224a0c12ec50fe98d76caee.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",é–å¤©æˆå‰§å°
+https://py.doube.eu.org/tv/histar/getUrl/jtxjt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="éŸ©å›½å¨±ä¹å° KMTV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/f943a86685b7b98ec9cadbd0ad8f555d.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",éŸ©å›½å¨±ä¹å° KMTV
+https://py.doube.eu.org/tv/histar/getUrl/kmtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å…¬è§†æˆå‰§" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/c038fdf4f44e39d90ad47bbb1ab22bb8.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",å…¬è§†æˆå‰§
+https://py.doube.eu.org/tv/histar/getUrl/gsxj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å½±è¿·æ•°ä½çºªå®žå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/6a7f9c2a5a2cf8afa5a22cd1e4363d56.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",å½±è¿·æ•°ä½çºªå®žå°
+https://py.doube.eu.org/tv/histar/getUrl/ymswjst/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å½±è¿·æ•°å­—ç”µå½±å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/9bd94d81a0a73757a392f68af0aa51a4.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",å½±è¿·æ•°å­—ç”µå½±å°
+https://py.doube.eu.org/tv/histar/getUrl/fans-cinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="è§†çº³åŽä»çºªå®žé¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/63f7247e1bc89553ee651ad2d597dc84.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",è§†çº³åŽä»çºªå®žé¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/cnex/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/4675bcb8862312cb5f881fda10623b8f.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",MTV Live HD é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/mtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTA å¨±ä¹å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/5a26cd6507853ea84602dc2d1a383a4e.png" group-title="å°æ¹¾å½±éŸ³å¨±ä¹",ELTA å¨±ä¹å°
+https://py.doube.eu.org/tv/histar/getUrl/elta-ylt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-19/55fe3bb483cd8de3522c52594b287748.png" group-title="æ–°é©¬é¢‘é“",Channel 5
+https://py.doube.eu.org/tv/histar/getUrl/channel-5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-26/7cd06e6bed6316526cb9c13fb636bf6b.png" group-title="æ–°é©¬é¢‘é“",Channel 8
+https://py.doube.eu.org/tv/histar/getUrl/channel8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-19/7381f73a8ec06bceefa354c2fdf03767.png" group-title="æ–°é©¬é¢‘é“",Channel U
+https://py.doube.eu.org/tv/histar/getUrl/channel-u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/62dc355ef2837b5560d8fe61985cf1a7.png" group-title="æ–°é©¬é¢‘é“",8TV
+https://py.doube.eu.org/tv/histar/getUrl/8tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/8d213d44b4f0ac0320ade237dfe62cc5.png" group-title="æ–°é©¬é¢‘é“",TV9
+https://py.doube.eu.org/tv/histar/getUrl/tv9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/93866d2e060be1ba4b995f899dd596d1.webp" group-title="æ–°é©¬é¢‘é“",TV1
+https://py.doube.eu.org/tv/histar/getUrl/tv1-my/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/9b43ee1a10583a6ba208cc33f7047cc1.webp" group-title="æ–°é©¬é¢‘é“",TV2
+https://py.doube.eu.org/tv/histar/getUrl/tv2-my/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/ec87bb2c0431c842979002a628c0c0b9.webp" group-title="æ–°é©¬é¢‘é“",TV3
+https://py.doube.eu.org/tv/histar/getUrl/tv3-my/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ChannelNewsAsia" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/7707d25e47bcfbb149a457622b6f6da4.webp" group-title="æ–°é©¬é¢‘é“",ChannelNewsAsia
+https://py.doube.eu.org/tv/histar/getUrl/channelnewsasia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OKEY" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-19/def82539b36b63df2224b884f1a85fb1.png" group-title="æ–°é©¬é¢‘é“",OKEY
+https://py.doube.eu.org/tv/histar/getUrl/okey/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB Magic" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-07-28/35e1a86163f7f5f98a720fda075504f1.png" group-title="æ–°é©¬é¢‘é“",TVB Magic
+https://py.doube.eu.org/tv/histar/getUrl/tvb-magic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvN Movies" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-07-28/127705ffdca026c2198838f1cdaea13d.png" group-title="æ–°é©¬é¢‘é“",tvN Movies
+https://py.doube.eu.org/tv/histar/getUrl/tvn-movies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-07-28/a3f1bd42b7e17f2d2832bc9a65956d0b.png" group-title="æ–°é©¬é¢‘é“",AXN
+https://py.doube.eu.org/tv/histar/getUrl/axn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/47d97dc011d311783a2dd623ac06813c.webp" group-title="æ–°é©¬é¢‘é“",TV Alhijrah
+https://py.doube.eu.org/tv/histar/getUrl/tv-alhijrah/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ColorsHindi" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/0514998ab61340adf340a5d110f50a3b.webp" group-title="æ–°é©¬é¢‘é“",ColorsHindi
+https://py.doube.eu.org/tv/histar/getUrl/colorshindi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/340b319ab480364902678eef10c03413.webp" group-title="æ–°é©¬é¢‘é“",TVS
+https://py.doube.eu.org/tv/histar/getUrl/tvs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/347d3be8f02320be8f9a004369fe7889.webp" group-title="æ–°é©¬é¢‘é“",tvN
+https://py.doube.eu.org/tv/histar/getUrl/tvn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeritaRTM" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/d2f2a5c4b65d9927701c12712839d1ec.webp" group-title="æ–°é©¬é¢‘é“",BeritaRTM
+https://py.doube.eu.org/tv/histar/getUrl/beritartm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SukanRTM" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/bedff906cccf7c8983596c340552909b.webp" group-title="æ–°é©¬é¢‘é“",SukanRTM
+https://py.doube.eu.org/tv/histar/getUrl/sukanrtm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HITSMovies" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/4973ee3d88b26f3b6234c88abca07e92.webp" group-title="æ–°é©¬é¢‘é“",HITSMovies
+https://py.doube.eu.org/tv/histar/getUrl/hitsmovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ShowCase" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/e9e31dc158615c3d9ec0543065418111.webp" group-title="æ–°é©¬é¢‘é“",ShowCase
+https://py.doube.eu.org/tv/histar/getUrl/showcase/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBCEarth" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/7e92f85c7cb2a04913f0a899275de275.webp" group-title="æ–°é©¬é¢‘é“",BBCEarth
+https://py.doube.eu.org/tv/histar/getUrl/bbcearth/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mediacorp Suria" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/7a09436bec1fbb3e5aea83d532dbbaeb.webp" group-title="æ–°é©¬é¢‘é“",Mediacorp Suria
+https://py.doube.eu.org/tv/histar/getUrl/mediacorp-suria/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mediacorp Vasantham" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/cef93b4ca18c405f44e6f7c9669cb68a.webp" group-title="æ–°é©¬é¢‘é“",Mediacorp Vasantham
+https://py.doube.eu.org/tv/histar/getUrl/mediacorp-vasantham/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gem" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/855f44cc230749603b266f7a23bd37d5.webp" group-title="æ–°é©¬é¢‘é“",Gem
+https://py.doube.eu.org/tv/histar/getUrl/gem/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GlobalTrekker" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/61862052844278f5d89f0dc39bf8fd3a.webp" group-title="æ–°é©¬é¢‘é“",GlobalTrekker
+https://py.doube.eu.org/tv/histar/getUrl/globaltrekker/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DramaSangat" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/d0319b7ebe7e4988cb493b82cb0950e9.webp" group-title="æ–°é©¬é¢‘é“",DramaSangat
+https://py.doube.eu.org/tv/histar/getUrl/dramasangat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SunTV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/2675f0f38f05290bac2c1e78adb83fe9.webp" group-title="æ–°é©¬é¢‘é“",SunTV
+https://py.doube.eu.org/tv/histar/getUrl/suntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SunMusic" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/a7ed8c280579ca227bf2261b0d55c706.webp" group-title="æ–°é©¬é¢‘é“",SunMusic
+https://py.doube.eu.org/tv/histar/getUrl/sunmusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SunNews" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/e7a02615e6d81bb3aac10045aef02f81.webp" group-title="æ–°é©¬é¢‘é“",SunNews
+https://py.doube.eu.org/tv/histar/getUrl/sunnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AwesomeTV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/341d0101b4130c14fe7b02ec8dd39ae5.webp" group-title="æ–°é©¬é¢‘é“",AwesomeTV
+https://py.doube.eu.org/tv/histar/getUrl/awesometv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DidikTV7" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/d108110bc410dce284e28bdae3ab9f79.webp" group-title="æ–°é©¬é¢‘é“",DidikTV7
+https://py.doube.eu.org/tv/histar/getUrl/didiktv7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adithya" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/1f539068358967ec4604437183e5b85d.webp" group-title="æ–°é©¬é¢‘é“",Adithya
+https://py.doube.eu.org/tv/histar/getUrl/adithya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTVHD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/c56eb6c54307331cbbd08b4f766bb4b5.webp" group-title="æ–°é©¬é¢‘é“",KTVHD
+https://py.doube.eu.org/tv/histar/getUrl/ktvhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SunLife" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/df3315b431579d9ad619dd4d1876edf5.webp" group-title="æ–°é©¬é¢‘é“",SunLife
+https://py.doube.eu.org/tv/histar/getUrl/sunlife/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="StarVijay" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/64a7ea91441bdd2501bef6ced9708635.webp" group-title="æ–°é©¬é¢‘é“",StarVijay
+https://py.doube.eu.org/tv/histar/getUrl/starvijay/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ColorsTamil" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/0f0ce24e94f1e138808a522db40feab0.webp" group-title="æ–°é©¬é¢‘é“",ColorsTamil
+https://py.doube.eu.org/tv/histar/getUrl/colorstamil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZeeTamil" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/1a72fb5b7110f59843cd829df4a77eba.webp" group-title="æ–°é©¬é¢‘é“",ZeeTamil
+https://py.doube.eu.org/tv/histar/getUrl/zeetamil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZeeCinemaHD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/2b957e404551847da0e2f1b83e5311ef.webp" group-title="æ–°é©¬é¢‘é“",ZeeCinemaHD
+https://py.doube.eu.org/tv/histar/getUrl/zeecinemahd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBSWorld" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/b1aca4f7cefe4581fb4caa60b1552dab.webp" group-title="æ–°é©¬é¢‘é“",KBSWorld
+https://py.doube.eu.org/tv/histar/getUrl/kbsworld/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boo" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/5228dbea99fe13a25f09fef76daf8d8a.webp" group-title="æ–°é©¬é¢‘é“",Boo
+https://py.doube.eu.org/tv/histar/getUrl/boo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTVLive" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/284ee2230268078856af841280a0c11c.webp" group-title="æ–°é©¬é¢‘é“",MTVLive
+https://py.doube.eu.org/tv/histar/getUrl/mtvlive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bernama" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/bb35b77c738023c2f5c356d12629af63.webp" group-title="æ–°é©¬é¢‘é“",Bernama
+https://py.doube.eu.org/tv/histar/getUrl/bernama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/90beccf54f7df6fc112da5613df8e154.webp" group-title="æ–°é©¬é¢‘é“",Moonbug
+https://py.doube.eu.org/tv/histar/getUrl/moonbug/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/2eec9e9d776078f020ee5fd6e1e8e47e.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro AEC
+https://py.doube.eu.org/tv/histar/getUrl/astro-aec/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro æ¬¢å–œå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/463395568027d510ab8caaa38d13b5e0.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro æ¬¢å–œå°
+https://py.doube.eu.org/tv/histar/getUrl/astro-huaheedai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-02/0e894ce2b5280c5fac99050bcebf15b7.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro SuperSport
+https://py.doube.eu.org/tv/histar/getUrl/super-sports1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-02/e83796ad8a9a9a797915bcbf1cd74f06.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro SuperSport 2
+https://py.doube.eu.org/tv/histar/getUrl/super-sports2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-02/2fb77aab0adc589b1e90d2463361b56e.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro SuperSport 3
+https://py.doube.eu.org/tv/histar/getUrl/super-sports3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-02/f68cbc6b28f78b7de7440572364bfd39.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro SuperSport 4
+https://py.doube.eu.org/tv/histar/getUrl/super-sports4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/5ce7611bd2b2872bae85e8bd0e90bcd9.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Arena Bola
+https://py.doube.eu.org/tv/histar/getUrl/arena-bola/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/6931a8a139dd31c9c09e2a161190fcf8.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Arena Bola2
+https://py.doube.eu.org/tv/histar/getUrl/arena-bola2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro çˆ±å¥‡è‰º" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/4154b915bd420bd5d45c463b81788d72.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro çˆ±å¥‡è‰º
+https://py.doube.eu.org/tv/histar/getUrl/astro-iqiyi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 352" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-24/49761458e8103cda331f53665b3a828d.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro AOD 352
+https://py.doube.eu.org/tv/histar/getUrl/astro-aod-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 354" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/78eb149b70c9581b7430e498d86d4497.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro AOD 354
+https://py.doube.eu.org/tv/histar/getUrl/astro-aod/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro QJ" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/cd62e30fc223b5222c856464cf0f1e0d.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro QJ
+https://py.doube.eu.org/tv/histar/getUrl/astro-quanjia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/14e2826f23a9ccbc27e5f4598fdf9617.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Awani
+https://py.doube.eu.org/tv/histar/getUrl/astro-awani/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-24/006fac1b575fdde207fa199381457a26.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Arena HD
+https://py.doube.eu.org/tv/histar/getUrl/astro-arena-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c851fe8e2c3ed5e6c88f3bda85e39ba0.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Arena 2
+https://py.doube.eu.org/tv/histar/getUrl/astro-arena2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Citra" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/504a7a04b3aee4560fe0a15dcde11137.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Citra
+https://py.doube.eu.org/tv/histar/getUrl/astro-citra/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/287d3ab87e00e61ff8fc1306f17ac444.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Prima
+https://py.doube.eu.org/tv/histar/getUrl/astro-prima/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Aura" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/7f1fa0d6891ab4d4df2b55a08be9f799.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Aura
+https://py.doube.eu.org/tv/histar/getUrl/astro-aura/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro AURA" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/2413f5b531794f0485b98cefd274dbae.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro AURA
+https://py.doube.eu.org/tv/histar/getUrl/astra-aura/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro RIA" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/b9b5796d9cce0918b331ecf35f152ddc.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro RIA
+https://py.doube.eu.org/tv/histar/getUrl/astro-ria/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro ONE" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/6081ff8e0282a0d4435f55f5f67f8524.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro ONE
+https://py.doube.eu.org/tv/histar/getUrl/astro-one/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AstroPremier" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/4fc5eaafd5f8c4463314119cfb003c5f.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",AstroPremier
+https://py.doube.eu.org/tv/histar/getUrl/astropremier/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c45ed0d384271e0c0a27077853a1b703.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Ceria
+https://py.doube.eu.org/tv/histar/getUrl/astro-ceria/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vaanavil" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/51e859df171421231f5fd214e5bdf60c.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Vaanavil
+https://py.doube.eu.org/tv/histar/getUrl/astro-vaanavil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vinmeen" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/e28402b25dda1258bbc941b90637a3a2.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Vinmeen
+https://py.doube.eu.org/tv/histar/getUrl/astro-vinmeen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/eb983f0237970b756a150c95e0f44de5.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Warna
+https://py.doube.eu.org/tv/histar/getUrl/astro-warna/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vellithirai" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/618fe2e5d23ab11cee7ddc906474a903.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Vellithirai
+https://py.doube.eu.org/tv/histar/getUrl/astro-vellithirai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Rania" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/88681c959cb4052c6d0e5d6ae2fe8f13.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Rania
+https://py.doube.eu.org/tv/histar/getUrl/astro-rania/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Oasis" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/1ef6b128d9510e585c8676ebb3ea522a.png" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro Oasis
+https://py.doube.eu.org/tv/histar/getUrl/astro-oasis/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/58d33ad7fb103fcf923ef20d6bf696e6.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro TUTOR TV
+https://py.doube.eu.org/tv/histar/getUrl/astro-tutor-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro GolfChannel" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/108f9f4337b1ea4da87f3ff066d876ca.webp" group-title="é©¬æ¥è¥¿äºšAstroç³»åˆ—",Astro GolfChannel
+https://py.doube.eu.org/tv/histar/getUrl/astro-golfchannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-10/150679a6b0fc333c6b8d9b708bd79895.webp" group-title="ä½“è‚²ç«žæŠ€",beIN Sports
+https://py.doube.eu.org/tv/histar/getUrl/beinsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-10/dd2a0f86994f6ca69f45d79ed7089837.webp" group-title="ä½“è‚²ç«žæŠ€",beIN Sports 2
+https://py.doube.eu.org/tv/histar/getUrl/beinsports2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-10/daf43524178848fc97c6557bfb4c0d56.webp" group-title="ä½“è‚²ç«žæŠ€",beIN Sports 3
+https://py.doube.eu.org/tv/histar/getUrl/beinsports3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTA ä½“è‚²-1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/6943f27ad78410fd4d21d09ed5ac228b.png" group-title="ä½“è‚²ç«žæŠ€",ELTA ä½“è‚²-1
+https://py.doube.eu.org/tv/histar/getUrl/elta-sport1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTA ä½“è‚²-2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/18e42a4ad28667140c0a2b6978a31871.png" group-title="ä½“è‚²ç«žæŠ€",ELTA ä½“è‚²-2
+https://py.doube.eu.org/tv/histar/getUrl/elta-sport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTA ä½“è‚²-3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-06-02/dec38497c3d03c8d3fd43c6c527a41ed.png" group-title="ä½“è‚²ç«žæŠ€",ELTA ä½“è‚²-3
+https://py.doube.eu.org/tv/histar/getUrl/elta-sport3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTAä½“è‚²4å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-18/219e1f10d1fdcfc22de3f265966de4a5.webp" group-title="ä½“è‚²ç«žæŠ€",ELTAä½“è‚²4å°
+https://py.doube.eu.org/tv/histar/getUrl/elta-sport4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åšæ–¯ç½‘çƒ" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/78bba8fbbf5e751620bf161122be7d31.png" group-title="ä½“è‚²ç«žæŠ€",åšæ–¯ç½‘çƒ
+https://py.doube.eu.org/tv/histar/getUrl/sportcast-tennis/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åšæ–¯è¿åŠ¨-1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/f4d263daabd110d00765ef98be3a9f46.png" group-title="ä½“è‚²ç«žæŠ€",åšæ–¯è¿åŠ¨-1
+https://py.doube.eu.org/tv/histar/getUrl/sportcast1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åšæ–¯æ— é™" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/8648c974c0ad54511344d6c74b285b89.png" group-title="ä½“è‚²ç«žæŠ€",åšæ–¯æ— é™
+https://py.doube.eu.org/tv/histar/getUrl/sportcast-wx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åšæ–¯é«˜çƒ-1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/3fe87f4773cf37e9ce00114feb6cb3a6.png" group-title="ä½“è‚²ç«žæŠ€",åšæ–¯é«˜çƒ-1
+https://py.doube.eu.org/tv/histar/getUrl/sportcast-golf1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åšæ–¯é«˜çƒ-2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/a0aea9921a8a1dd6d00f18e9c68b1f2f.png" group-title="ä½“è‚²ç«žæŠ€",åšæ–¯é«˜çƒ-2
+https://py.doube.eu.org/tv/histar/getUrl/sportcast-golf2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="myTV SUPERç›´æ’­è¶³çƒ1å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/aa966f115ee8a4fa7676f5b2b5167dde.webp" group-title="ä½“è‚²ç«žæŠ€",myTV SUPERç›´æ’­è¶³çƒ1å°
+https://py.doube.eu.org/tv/histar/getUrl/mytv-super-soccer1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="myTV SUPERç›´æ’­è¶³çƒ2å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/4f5ef72a2ea30d70eddd3483dc52e94a.webp" group-title="ä½“è‚²ç«žæŠ€",myTV SUPERç›´æ’­è¶³çƒ2å°
+https://py.doube.eu.org/tv/histar/getUrl/mytv-super-soccer2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="myTV SUPERç›´æ’­è¶³çƒ3å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/8a44a59a09a2ece93e6aade4542085ca.webp" group-title="ä½“è‚²ç«žæŠ€",myTV SUPERç›´æ’­è¶³çƒ3å°
+https://py.doube.eu.org/tv/histar/getUrl/mytv-super-soccer3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="myTV SUPERç›´æ’­è¶³çƒ4å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/ee1ebd995e4b046d4c101a06de630345.webp" group-title="ä½“è‚²ç«žæŠ€",myTV SUPERç›´æ’­è¶³çƒ4å°
+https://py.doube.eu.org/tv/histar/getUrl/mytv-super-soccer4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="çº¬æ¥ä½“è‚²" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/6f325f8c0f78bf35fa61dc9ea83a21bf.png" group-title="ä½“è‚²ç«žæŠ€",çº¬æ¥ä½“è‚²
+https://py.doube.eu.org/tv/histar/getUrl/videoland-sport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/035c1970d876cfd4ba533ab71511a99f.png" group-title="ä½“è‚²ç«žæŠ€",NBA
+https://py.doube.eu.org/tv/histar/getUrl/nba/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-26/8e6161431305f53307fc1860f7220dfa.png" group-title="ä½“è‚²ç«žæŠ€",WWE
+https://py.doube.eu.org/tv/histar/getUrl/wwe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVENä½“è‚²-1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/d7b773de73832eb6d428db4998f24fb5.png" group-title="ä½“è‚²ç«žæŠ€",ELEVENä½“è‚²-1
+https://py.doube.eu.org/tv/histar/getUrl/eleven-sport1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVENä½“è‚²-2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/582288ed83812ac2effd56a794070d51.png" group-title="ä½“è‚²ç«žæŠ€",ELEVENä½“è‚²-2
+https://py.doube.eu.org/tv/histar/getUrl/eleven-sport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosports-1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/4d0757dd23ff87237241950f4bbf36d3.png" group-title="ä½“è‚²ç«žæŠ€",Eurosports-1
+https://py.doube.eu.org/tv/histar/getUrl/eurosports-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/6584ad7a64f2e5b57917c88205a0637e.png" group-title="ä½“è‚²ç«žæŠ€",SPOTV
+https://py.doube.eu.org/tv/histar/getUrl/spotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV-2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/58bf83d42a7fd8b5a548ecbfb14437d6.png" group-title="ä½“è‚²ç«žæŠ€",SPOTV-2
+https://py.doube.eu.org/tv/histar/getUrl/spotv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ—¶å°šè¿åŠ¨ X" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/7e86580abf3f8829dc67018967640d6d.png" group-title="ä½“è‚²ç«žæŠ€",æ—¶å°šè¿åŠ¨ X
+https://py.doube.eu.org/tv/histar/getUrl/ssydx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GINX Esports TV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/b0bb42eeeb921953743c7286fedec65b.png" group-title="ä½“è‚²ç«žæŠ€",GINX Esports TV
+https://py.doube.eu.org/tv/histar/getUrl/ginx-esports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tech Storm" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/025483a2cc3cbb5b8749e90573441a53.png" group-title="ä½“è‚²ç«žæŠ€",Tech Storm
+https://py.doube.eu.org/tv/histar/getUrl/tech-storm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Sport Stars" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/5a85e1f8a32815087a46b240c0fe6ecb.png" group-title="ä½“è‚²ç«žæŠ€",TRACE Sport Stars
+https://py.doube.eu.org/tv/histar/getUrl/trace-sport-stars/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="W-Sport" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/86aaf1d1c10b8e0619b2a487e1c983fd.webp" group-title="ä½“è‚²ç«žæŠ€",W-Sport
+https://py.doube.eu.org/tv/histar/getUrl/w-sport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PremierSports" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/ef52d2a9b82d2f907a3c3ce2221a0478.webp" group-title="ä½“è‚²ç«žæŠ€",PremierSports
+https://py.doube.eu.org/tv/histar/getUrl/premiersports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ™ºæž—ä½“è‚²å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/d8c401075830bf5ff4bbc13891a8ae35.png" group-title="ä½“è‚²ç«žæŠ€",æ™ºæž—ä½“è‚²å°
+https://py.doube.eu.org/tv/histar/getUrl/zl-sports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/f3ab4509a947827223e5109cb1db96d8.png" group-title="æ¬§ç¾Žé¢‘é“",HBO HD
+https://py.doube.eu.org/tv/histar/getUrl/hbo-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-24/d65ca965627163c4b07dfa133f2a543a.webp" group-title="æ¬§ç¾Žé¢‘é“",HBO Hits HD
+https://py.doube.eu.org/tv/histar/getUrl/hbo-hits-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-24/f30a3781c659cf039644112cf8b25aff.webp" group-title="æ¬§ç¾Žé¢‘é“",HBO Family HD
+https://py.doube.eu.org/tv/histar/getUrl/hbo-family/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-24/c41e7bda4610dfd1ab99522f825ebf58.webp" group-title="æ¬§ç¾Žé¢‘é“",HBO Signature HD
+https://py.doube.eu.org/tv/histar/getUrl/hbo-signature/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-07-28/145a84f501ecbf695a7566c537c3e5c9.png" group-title="æ¬§ç¾Žé¢‘é“",Cinemax
+https://py.doube.eu.org/tv/histar/getUrl/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/3656bc09a431520b80a63eb1e0e222d4.png" group-title="æ¬§ç¾Žé¢‘é“",CNN International
+https://py.doube.eu.org/tv/histar/getUrl/cnn-international/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¥½èŽ±åžç”µå½±" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-22/b1ceb15f8467c38fb14c78f2381c732b.webp" group-title="æ¬§ç¾Žé¢‘é“",å¥½èŽ±åžç”µå½±
+https://py.doube.eu.org/tv/histar/getUrl/hollywood-movie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROCK Action" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/a08ac6d191626eb1090bbd4b339176ff.png" group-title="æ¬§ç¾Žé¢‘é“",ROCK Action
+https://py.doube.eu.org/tv/histar/getUrl/rock-action/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROCK Entertainment" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/771dd9baebef44ae6a7dbd14fa9496f9.png" group-title="æ¬§ç¾Žé¢‘é“",ROCK Entertainment
+https://py.doube.eu.org/tv/histar/getUrl/rock-entertaiment/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/bdbafd53e53bb11c6b720e6c90176b67.png" group-title="æ¬§ç¾Žé¢‘é“",Bloomberg
+https://py.doube.eu.org/tv/histar/getUrl/bloomberg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="amc æœ€çˆ±ç”µå½±" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/519ab5a26724b465c53644a0e45637e3.png" group-title="æ¬§ç¾Žé¢‘é“",amc æœ€çˆ±ç”µå½±
+https://py.doube.eu.org/tv/histar/getUrl/amc-movie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ç¾Žå›½ä¸­æ–‡ç”µè§†" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/76706078c24d4ed521cda7be09d57717.webp" group-title="æ¬§ç¾Žé¢‘é“",ç¾Žå›½ä¸­æ–‡ç”µè§†
+https://py.doube.eu.org/tv/histar/getUrl/sinovision/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime å¨±ä¹é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/ced6c6cccb85ced225a6a78527ee7f25.png" group-title="æ¬§ç¾Žé¢‘é“",Lifetime å¨±ä¹é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/9399c967fce77a0e80a9566b0a373084.png" group-title="æ¬§ç¾Žé¢‘é“",HLN
+https://py.doube.eu.org/tv/histar/getUrl/cnn-hln/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="fun æŽ¢ç´¢å¨±ä¹å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/e9b8e1bfc5ab14c078a5e9b11e04da2f.png" group-title="æ¬§ç¾Žé¢‘é“",fun æŽ¢ç´¢å¨±ä¹å°
+https://py.doube.eu.org/tv/histar/getUrl/festival4k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/cf3f70eb65c1e833d060f86a3509a44e.png" group-title="æ¬§ç¾Žé¢‘é“",Euronews
+https://py.doube.eu.org/tv/histar/getUrl/euronews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema Europe HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/4d27ffeca42b4a94a0e3a2ecc668fa8c.png" group-title="æ¬§ç¾Žé¢‘é“",MyCinema Europe HD
+https://py.doube.eu.org/tv/histar/getUrl/mycinema-europe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOA ç¾Žå›½ä¹‹éŸ³" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/a211456b5f1ff08968ac1f7b12a51758.png" group-title="æ¬§ç¾Žé¢‘é“",VOA ç¾Žå›½ä¹‹éŸ³
+https://py.doube.eu.org/tv/histar/getUrl/voa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW å¾·å›½ä¹‹å£°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/92f5434abc3a7e2f62df1df8e244e9db.png" group-title="æ¬§ç¾Žé¢‘é“",DW å¾·å›½ä¹‹å£°
+https://py.doube.eu.org/tv/histar/getUrl/dw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/7ec61f5cd4d2862cb29a2e2834bc9744.png" group-title="æ¬§ç¾Žé¢‘é“",CNN
+https://py.doube.eu.org/tv/histar/getUrl/cnn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/f9548fc4bcc6ff293ab502e9860fa15d.png" group-title="æ¬§ç¾Žé¢‘é“",ABC News
+https://py.doube.eu.org/tv/histar/getUrl/abc-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/093d174fd080f617afefc4a15c989051.png" group-title="æ¬§ç¾Žé¢‘é“",BBC World News
+https://py.doube.eu.org/tv/histar/getUrl/bbc-world-news/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/9a9dc0d1abec7902a77c9d15a7046eeb.png" group-title="æ¬§ç¾Žé¢‘é“",CNBC
+https://py.doube.eu.org/tv/histar/getUrl/cnbc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸Šæµ·éƒ½å¸‚" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/7c9188460c8d2a03549284c7cc1946e7.png" group-title="å¤§é™†åœ°æ–¹",ä¸Šæµ·éƒ½å¸‚
+https://py.doube.eu.org/tv/histar/getUrl/shds/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸Šæµ·æ–°é—»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/4b9877441b7a711911893590b3fb896b.png" group-title="å¤§é™†åœ°æ–¹",ä¸Šæµ·æ–°é—»
+https://py.doube.eu.org/tv/histar/getUrl/shxw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="äº”æ˜Ÿä½“è‚²" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/4636bcf364a9e016a0fc8170a9d700ca.png" group-title="å¤§é™†åœ°æ–¹",äº”æ˜Ÿä½“è‚²
+https://py.doube.eu.org/tv/histar/getUrl/wxty/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¹¿ä¸œä½“è‚²" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/9172eb4d135fcc2266255a09ba500c05.png" group-title="å¤§é™†åœ°æ–¹",å¹¿ä¸œä½“è‚²
+https://py.doube.eu.org/tv/histar/getUrl/gdty/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ç¬¬ä¸€è´¢ç»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/9cf9a1fe1a7ad0fa34667707b095960b.png" group-title="å¤§é™†åœ°æ–¹",ç¬¬ä¸€è´¢ç»
+https://py.doube.eu.org/tv/histar/getUrl/yicai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="è¾½å®ä½“è‚²" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/986c30637383af995b723c484260dc59.png" group-title="å¤§é™†åœ°æ–¹",è¾½å®ä½“è‚²
+https://py.doube.eu.org/tv/histar/getUrl/lnty/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¤©æ´¥ä½“è‚²" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/29a7eea44ee162dcfa74667c382ce8c0.png" group-title="å¤§é™†åœ°æ–¹",å¤©æ´¥ä½“è‚²
+https://py.doube.eu.org/tv/histar/getUrl/tjty/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å¹¿ä¸œç æ±Ÿ" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/b30a59ea1ac6befa154d39013cb3a3c6.png" group-title="å¤§é™†åœ°æ–¹",å¹¿ä¸œç æ±Ÿ
+https://py.doube.eu.org/tv/histar/getUrl/gdzj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ²³å—æ¢¨å›­" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/3a352cb2bc0c9890bf5776fd0f63c03c.png" group-title="å¤§é™†åœ°æ–¹",æ²³å—æ¢¨å›­
+https://py.doube.eu.org/tv/histar/getUrl/hnly/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="è¿ªå£«å°¼é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/90ec33c8130fd4b9f9fae00a70f3c1de.png" group-title="å°‘å„¿åŠ¨ç”»",è¿ªå£«å°¼é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/disney/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax å¡é€š" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/4e3dcc39b4eed0c21a65e76c43030671.png" group-title="å°‘å„¿åŠ¨ç”»",Animax å¡é€š
+https://py.doube.eu.org/tv/histar/getUrl/animax-cartoon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks æ¢¦å·¥åŽ‚åŠ¨ç”»" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/83a43e2a5c0d1d4a95da0440d5f8603f.png" group-title="å°‘å„¿åŠ¨ç”»",DreamWorks æ¢¦å·¥åŽ‚åŠ¨ç”»
+https://py.doube.eu.org/tv/histar/getUrl/dreamworks/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å°å°¼å…‹é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/ab8b9ab4efc9c027ddba94a65afb56cb.png" group-title="å°‘å„¿åŠ¨ç”»",å°å°¼å…‹é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/nick-jr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å°¼å…‹å„¿ç«¥é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/389b07b806d71f0333899ab6428c584d.png" group-title="å°‘å„¿åŠ¨ç”»",å°¼å…‹å„¿ç«¥é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOMO äº²å­å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/e1fe6193781771b93a62cc5d33aa990f.png" group-title="å°‘å„¿åŠ¨ç”»",MOMO äº²å­å°
+https://py.doube.eu.org/tv/histar/getUrl/momo-kids/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ä¸œæ£®å¹¼å¹¼å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-14/69bbb859523176a445b587d2e6f0e281.png" group-title="å°‘å„¿åŠ¨ç”»",ä¸œæ£®å¹¼å¹¼å°
+https://py.doube.eu.org/tv/histar/getUrl/ebc-yoyo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNå¡é€š" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/cd5d84bc80291b23daa825efde2cdcfd.png" group-title="å°‘å„¿åŠ¨ç”»",CNå¡é€š
+https://py.doube.eu.org/tv/histar/getUrl/cn-cartoon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–å¤©å¡é€šå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/68d67143922d406ef56546d7125381df.png" group-title="å°‘å„¿åŠ¨ç”»",é–å¤©å¡é€šå°
+https://py.doube.eu.org/tv/histar/getUrl/jtkt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–å¤©è‚²ä¹å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/7c3f80efb05ae0188b7a49fdfaac5303.png" group-title="å°‘å„¿åŠ¨ç”»",é–å¤©è‚²ä¹å°
+https://py.doube.eu.org/tv/histar/getUrl/jtyl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="i-Fun åŠ¨æ¼«å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/d185f41e7516e23b01c0ab4d5ee4d7d8.png" group-title="å°‘å„¿åŠ¨ç”»",i-Fun åŠ¨æ¼«å°
+https://py.doube.eu.org/tv/histar/getUrl/i-fun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTVç”Ÿæ´»è‹±èªžå°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/d7159a5dfbe2acef3f490f04c093812f.png" group-title="å°‘å„¿åŠ¨ç”»",ELTVç”Ÿæ´»è‹±èªžå°
+https://py.doube.eu.org/tv/histar/getUrl/eltv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/4cf6e946cd888b744c73d359d9639a25.png" group-title="å°‘å„¿åŠ¨ç”»",Boomerang HD
+https://py.doube.eu.org/tv/histar/getUrl/boomerang-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="é–æ´‹å¡é€š NiceBingo" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/d5377a380f0693a61a2fc680582ff536.png" group-title="å°‘å„¿åŠ¨ç”»",é–æ´‹å¡é€š NiceBingo
+https://py.doube.eu.org/tv/histar/getUrl/nice-bingo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="è¾¾æ–‡è¥¿é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/cb2f180f5a2eef47be96b2fc2a57b3a3.png" group-title="å°‘å„¿åŠ¨ç”»",è¾¾æ–‡è¥¿é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/da-vinci/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æŽ¢ç´¢é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/bd1a22ce47f248707de5443bd98a3591.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",æŽ¢ç´¢é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/discovery/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æŽ¢ç´¢ç§‘å­¦é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/b0dd1a86b164ca68c50878876c235a03.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",æŽ¢ç´¢ç§‘å­¦é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/discovery-sci/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æŽ¢ç´¢äºšæ´²é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/af387559466543dcb2740fe3e6e69a0b.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",æŽ¢ç´¢äºšæ´²é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/discovery-asia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/395d0e39c3d5008ec268237ea662f934.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",DMAX
+https://py.doube.eu.org/tv/histar/getUrl/dmax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/2dfdc344731675aa824eeb468fd54bbf.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",History é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/history/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History-2 é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/5798f3005816b6e69143829f00aa1d15.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",History-2 é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/history-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/f1044466f03f9c9c64c53dbee09ba5d6.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",Love Nature
+https://py.doube.eu.org/tv/histar/getUrl/love-nature/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="å›½å®¶åœ°ç† é‡Žç”Ÿé¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/63bc31f0d375ae5aaaffb2260777fecd.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",å›½å®¶åœ°ç† é‡Žç”Ÿé¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/natgeo-wild/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ°‘è§†æ—…æ¸¸" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/f18bc8efa36ef530ae878804ecc0b3f8.webp" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",æ°‘è§†æ—…æ¸¸
+https://py.doube.eu.org/tv/histar/getUrl/ftv-travel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ç¾Žé£Ÿæ˜Ÿçƒé¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/8372c427e2dc2a5c6294fcb8e52213cb.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",ç¾Žé£Ÿæ˜Ÿçƒé¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/food-planet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EYE æ—…æ¸¸å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/b2f121f5def431fd2024eb7b0e7a9f50.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",EYE æ—…æ¸¸å°
+https://py.doube.eu.org/tv/histar/getUrl/eye-travel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTA ç”Ÿæ´»æ—…æ¸¸å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-11/9f467391367e37c4e52cac0438577e9d.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",ELTA ç”Ÿæ´»æ—…æ¸¸å°
+https://py.doube.eu.org/tv/histar/getUrl/elta-lifetravel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="è½¦è¿·TV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-11-09/9575e32debfa26d989316b953c0fb495.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",è½¦è¿·TV
+https://py.doube.eu.org/tv/histar/getUrl/motorvision/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="åŠ¨ç‰©æ˜Ÿçƒé¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/25ee137d8d7388e4d893e411ced172e9.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",åŠ¨ç‰©æ˜Ÿçƒé¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/animal-planet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC æ—…æ¸¸ç”Ÿæ´»é »é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/b030ed41a9d6445a6dd3c07e4f15f344.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",TLC æ—…æ¸¸ç”Ÿæ´»é »é“
+https://py.doube.eu.org/tv/histar/getUrl/tlc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="äºšæ´²æ—…æ¸¸å°" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/0098b42b7359650c114876cc03638b1f.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",äºšæ´²æ—…æ¸¸å°
+https://py.doube.eu.org/tv/histar/getUrl/asia-travel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-11/104cc9b40b8add19ba3bc2e4a40f7f5a.webp" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",Asian Food Network
+https://py.doube.eu.org/tv/histar/getUrl/asian-food-network/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CI ç½ªæ¡ˆä¾¦æŸ¥é¢‘é“" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/9ada19f286f94fdf32351a2bbd632cb4.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",CI ç½ªæ¡ˆä¾¦æŸ¥é¢‘é“
+https://py.doube.eu.org/tv/histar/getUrl/ci/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="æ»šåŠ¨åŠ› rollor" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/22affb825ef14e3ba8953da854a2835e.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",æ»šåŠ¨åŠ› rollor
+https://py.doube.eu.org/tv/histar/getUrl/rollor/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV Channel" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/1a322b4e78484bff8bab7d64f8e86ad6.png" group-title="äººæ–‡æ—…æ¸¸è‡ªç„¶",LUXE TV Channel
+https://py.doube.eu.org/tv/histar/getUrl/luxe-tv/index.m3u8
