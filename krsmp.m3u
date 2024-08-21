@@ -27,6 +27,14 @@ http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC 목포
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="General",MBC 강원영동
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC 춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="General",MBC 대전
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w210713330.m3u8
@@ -35,8 +43,6 @@ http://123.254.72.24:1935/tvlive/livestream2/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_w1740046871.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
@@ -44,7 +50,8 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="Undefined",MBC 광주 MBC [Geo-blocked]
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV조선" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
@@ -206,12 +213,16 @@ https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w667562990.m3u8
 #EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN HD
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",K-Story
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_265_C8B3D838.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",New KMovie
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
 #EXTINF:-1 tvg-id="MBN" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" group-title="",MBN
+https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/1000k/playlist.m3u8
+#EXTINF:-1 tvg-id="MBN" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" group-title="",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
+
 
 #EXTINF:-1 tvg-id="FTV" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf&Sports
 http://www.hwado.net/webtv/catv/58.php
