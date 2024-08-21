@@ -315,7 +315,7 @@ https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GS SHOP" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Shop",GS SHOP
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SK stoa" tvg-logo="" group-title="Shop",SK stoa
+#EXTINF:-1 tvg-id="SK stoa" tvg-logo="https://i.imgur.com/dhuDviW.png" group-title="Shop",SK stoa
 http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
 
 
