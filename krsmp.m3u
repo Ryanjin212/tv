@@ -257,7 +257,7 @@ https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HCiXkjm.png" group-title="",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 
-#EXTINF:-1 tvg-id="복지TV" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="",WBC복지TV
+#EXTINF:-1 tvg-id="복지TV" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="",복지TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="국방TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
@@ -351,7 +351,7 @@ http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="General",SBS
 #EXTINF:-1 tvg-id="b61433118e7dd50747c650f365f92135" tvg-chno="4.1",OBS
 
 http://121.169.172.95:9981/stream/channelid/288560310
