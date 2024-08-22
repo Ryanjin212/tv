@@ -560,7 +560,7 @@ http://121.169.172.95:9981/stream/channelid/411887382
 #EXTINF:-1 tvg-id="CH.U" tvg-chno="49.2",CH.U
 http://121.169.172.95:9981/stream/channelid/37781829
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-logo="" group-title="",AXN
 http://121.169.172.95:9981/stream/channelid/81349145
 
 #EXTINF:-1 tvg-id="6825e4a2e4f416c71aab8151e2008cf4" tvg-chno="53.1",E LIKE
