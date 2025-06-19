@@ -10,6 +10,8 @@ http://125.227.210.55:7155/VideoInput/play.ts
 http://125.227.210.55:35802/VideoInput/play.ts
 #EXTINF:-1,Unknown_34657
 http://125.227.210.55:39004/VideoInput/play.ts
+#EXTINF:-1,Unknown_3746
+http://125.227.210.55:8093/VideoInput/play.ts
 #EXTINF:-1,Unknown_3804
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1,Unknown_3805
